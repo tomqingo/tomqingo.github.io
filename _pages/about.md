@@ -69,4 +69,5 @@ Student Work
 + President of Piano Association in Shanghai Jiao Tong University, Sept. 2017 - Sept. 2018.
 + Chief Director of 3 concerts, each with 1K+ live viewers.
 + 10+ piano performance on the stage of school events.
+
 ![](images/piano.jpg)
