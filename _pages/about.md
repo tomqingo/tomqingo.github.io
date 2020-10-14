@@ -24,7 +24,10 @@ Education
 
 Academic Research
 ------
-+ **Sizhe Chen**, Zhengbao He, Chengjin Sun, Xiaolin Huang. Universal Adversarial Attack on Attention and the Resulting Dataset DamageNet. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2020. [[PDF](https://arxiv.org/abs/2001.06325)]
+\* indicates equal contribution
+\*\* indicates the corresponding author
+
++ **Sizhe Chen**, Zhengbao He, Chengjin Sun, Xiaolin Huang\*\*. Universal Adversarial Attack on Attention and the Resulting Dataset DamageNet. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2020. [[PDF](https://arxiv.org/abs/2001.06325)]
 
 Work Experience
 ------
