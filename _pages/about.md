@@ -7,6 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+I'm now a first-year M.S. student at the Institute of Image Processing and Pattern Recognition, Shanghai Jiao Tong University, China. I received my B.S. degree in Automation Department, Shanghai Jiao Tong University in 2020. My research interests are model security, robust learning, and interpretability of DNN.
   
 Biography
 ------
