@@ -60,7 +60,7 @@ Projects
 Awards and Honors
 ------
 + Outstanding Graduate in Shanghai Jiao Tong University, 2020. [[News](http://www.automation.sjtu.edu.cn/show.aspx?info_lb=610&flag=101&info_id=2875)]
-+ Grand Prize of Automation System Application Contest, 2019. [[News](https://news.sjtu.edu.cn/zhxw/20190807/108459.html]
++ Grand Prize of Automation System Application Contest, 2019. [[News](https://news.sjtu.edu.cn/zhxw/20190807/108459.html)]
 + Kwang-Hua Scholarship, 2019.
 + Golden Dragon Fish Scholarship, 2017.
 
