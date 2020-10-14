@@ -20,15 +20,14 @@ Education
 + B.S. in Automation Department, Shanghai Jiao Tong University, Sept. 2016 - Jun. 2020
    + Supervisor: [Xiaolin Huang](http://www.automation.sjtu.edu.cn/ShowPeople.aspx?info_id=2418&info_lb=590&flag=98)
    + Thesis: Semantic-Based Adversarial Attack and Its Transferability
-      + [Extraordinary Bachelor's Degree Thesis](http://sjcg.jwc.sjtu.edu.cn/): Top 1% (39/4000+), [PDF](http://sjcg.jwc.sjtu.edu.cn/375/2020/2020/Dissertation.html), [Defense](http://sjcg.jwc.sjtu.edu.cn/375/27/27/Video.html)
+      + [Extraordinary Bachelor's Degree Thesis](http://sjcg.jwc.sjtu.edu.cn/): Top 1% (39/4000+), [[PDF](http://sjcg.jwc.sjtu.edu.cn/375/2020/2020/Dissertation.html)], [[Defense](http://sjcg.jwc.sjtu.edu.cn/375/27/27/Video.html)]
 
 Academic Research
 ------
-
++ **Sizhe Chen**, Zhengbao He, Chengjin Sun, Xiaolin Huang. Universal Adversarial Attack on Attention and the Resulting Dataset DamageNet. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2020. [[PDF](https://arxiv.org/abs/2001.06325)]
 
 Work Experience
 ------
-![Editing a markdown file for a talk](https://github.com/AllenChen1998/sizhe.chen.homepage/blob/master/images/profile.jpg)
 
 Projects
 ------
@@ -38,3 +37,4 @@ Awards and Honors
 
 Student Work
 ------
+![](images/profile.jpg)
