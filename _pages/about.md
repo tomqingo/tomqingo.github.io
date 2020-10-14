@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my homepage"
+title: "Sizhe Chen's homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -30,7 +30,7 @@ Academic Research
 + Zhixing Ye\*, **Sizhe Chen\***, Peidong Zhang, Chengjin Sun, Jia Cai, Xiaolin Huang\*\*. HRFA: High-Resolution Feature-Based Attack. Under review of International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2021. [[PDF](https://arxiv.org/abs/2001.07631)]
 + Chengjin Sun, **Sizhe Chen**, Jia Cai, Xiaolin Huang\*\*. Type I attack for generative models. International Conference on Image Processing (ICIP), 2020. [[PDF](https://arxiv.org/abs/2003.01872)]
 + Chengjin Sun, **Sizhe Chen**, Xiaolin Huang\*\*. 	Double Backpropagation for Training Autoencoders against Adversarial Attack. Submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI). [[PDF](https://arxiv.org/abs/2003.01895)]
-+ Fan He, **Sizhe Chen**, Shuaiyi Li, Haixia Peng, Xiaolin Huang\*\*. Endoscopic Image Synthesis for Polyp Detector Enhancement Via Adversarial Attack. Under Review of International Symposium on Biomedical Imaging (ISBI), 2021. 
++ Fan He, **Sizhe Chen**, Shuaiyi Li, Lu Zhou, Haiqin Zhang, Haixia Peng, Xiaolin Huang\*\*. Endoscopic Image Synthesis for Polyp Detector Enhancement Via Adversarial Attack. Under Review of International Symposium on Biomedical Imaging (ISBI), 2021. 
 
 \* indicates equal contribution. \*\* indicates the corresponding author. 
 
