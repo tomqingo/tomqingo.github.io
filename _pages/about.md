@@ -14,9 +14,14 @@ Biography
 I'm now a first-year M.S. student at the Institute of Image Processing and Pattern Recognition, Shanghai Jiao Tong University, China. I received my B.S. degree in Automation Department, Shanghai Jiao Tong University in 2020. My research interests are model security, robust learning, and interpretability of DNN.
 
 
-Site-wide configuration
+Education
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
++ M.S. Student in Computer Science, Shanghai Jiao Tong University, Sept. 2020 - Present
+   + Supervisor: [Xiaolin Huang](http://www.automation.sjtu.edu.cn/ShowPeople.aspx?info_id=2418&info_lb=590&flag=98)
++ B.S. in Automation Department, Shanghai Jiao Tong University, Sept. 2016 - Jun. 2020
+   + Supervisor: [Xiaolin Huang](http://www.automation.sjtu.edu.cn/ShowPeople.aspx?info_id=2418&info_lb=590&flag=98)
+   + Thesis: Semantic-Based Adversarial Attack and Its Transferability
+      + [Extraordinary Bachelor's Degree Thesis](http://sjcg.jwc.sjtu.edu.cn/): Top 1%, 39 in total
 
 Create content & metadata
 ------
