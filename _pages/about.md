@@ -28,7 +28,7 @@ Academic Research
 
 Work Experience
 ------
-![Editing a markdown file for a talk](/images/profile.jpg)
+![Editing a markdown file for a talk](https://github.com/AllenChen1998/sizhe.chen.homepage/blob/master/images/profile.jpg)
 
 Projects
 ------
