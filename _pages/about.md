@@ -28,7 +28,7 @@ Academic Research
 
 Work Experience
 ------
-![Editing a markdown file for a talk](/images/profile.png)
+![Editing a markdown file for a talk](/images/profile.jpg)
 
 Projects
 ------
