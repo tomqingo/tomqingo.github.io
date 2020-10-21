@@ -11,15 +11,15 @@ redirect_from:
   
 Biography
 ------
-I'm now a M.S. student at the Institute of Image Processing and Pattern Recognition, Shanghai Jiao Tong University, China. I received my B.S. degree in Department of Automation, Shanghai Jiao Tong University in 2020. My research interests are robust machine learning, model security, and interpretability of DNN.
+I'm now a M.S. student at the Institute of Image Processing and Pattern Recognition, Shanghai Jiao Tong University (SJTU), China. I received my B.S. degree in Department of Automation, SJTU in 2020. My research interests are robust machine learning, model security, and interpretability of DNN.
 
 Education
 ------
-+ M.S. Student in Department of Automation, Shanghai Jiao Tong University, Sept. 2020 - Present
++ M.S. Student in Department of Automation, SJTU, Sept. 2020 - Present
    + Supervisor: [Xiaolin Huang](http://www.automation.sjtu.edu.cn/ShowPeople.aspx?info_id=2418&info_lb=590&flag=98)
-+ B.S. Degree in Department of Automation, Shanghai Jiao Tong University, Sept. 2016 - Jun. 2020
++ B.S. Degree in Department of Automation, SJTU, Sept. 2016 - Jun. 2020
    + Rank: 5/95, 88.56 on average for 135 core credits. [[material](https://github.com/AllenChen1998/SJTU-Automation-Materials)]
-   + Machine Learning (Top 1), Artificial Intelligence (Top 1), Advanced Mathematics (Top 1.2%).
+   + Machine Learning (Top 1), Artificial Intelligence (Top 1), Advanced Mathematics (1.2%).
    + Thesis: Semantic-Based Adversarial Attack and Its Transferability
    + Extraordinary Bachelor's Thesis: Top 1% (39/4000+), [[link](http://sjcg.jwc.sjtu.edu.cn/)], [[PDF](http://sjcg.jwc.sjtu.edu.cn/375/2020/2020/Dissertation.html)], [[Defense](http://sjcg.jwc.sjtu.edu.cn/375/27/27/Video.html)]
 
@@ -39,17 +39,17 @@ Work Experience
 ------
 + Internship, Tencent Zhuque Lab, Jul. 2020 - Sept. 2020.
    + AI security threat matrix. 50% writing of the original maniscript. [[News](https://ai.tencent.com/ailab/zh/news/detial/?id=68)] [[PDF](https://ai.tencent.com/ailab/media/AI%E5%AE%89%E5%85%A8%E7%9A%84%E5%A8%81%E8%83%81%E9%A3%8E%E9%99%A9%E7%9F%A9%E9%98%B5.pdf)]
-   + Patent: 模型处理方法、装置、设备及存储介质 (First Inventor, substantive reviewing)
-   + Patent: 图像分类方法、装置、电子设备及存储介质 (First Inventor, substantive reviewing)
+   + Patent: 模型处理方法、装置、设备及存储介质 (First Inventor, reviewing)
+   + Patent: 图像分类方法、装置、电子设备及存储介质 (First Inventor, reviewing)
    + Technical verification and design in popular science propaganda of AI security
 
 Projects
 ------
 + Endoscopic Processing and Urinary Robotics
    + Organization: Institute of Medical Robotics, Shanghai Jiao Tong University. Tong Ren Hospital, Shanghai.
-   + My job: data augumentation by adversarial attack.
+   + My job: data augmentation by adversarial attack.
    + Achievements with my contribution: A paper in ISBI, A patent.
-+ Transferable Adversarial Attck in Object Detection
++ Transferable Adversarial Attack in Object Detection
    + Organization: Alibaba, 4th competition of CIKM 2020.
    + My job: leader of team "谁都判不队", architecture design.
    + Achievements with my contribution: Top 1.5% Ranking. [[Link](https://tianchi.aliyun.com/competition/entrance/531806/rankingList)]
