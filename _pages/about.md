@@ -11,14 +11,14 @@ redirect_from:
   
 Biography
 ------
-I'm now a M.S. student at the Institute of Image Processing and Pattern Recognition, Shanghai Jiao Tong University, China. I received my B.S. degree in Automation Department, Shanghai Jiao Tong University in 2020. My research interests are robust machine learning, model security, and interpretability of DNN.
+I'm now a M.S. student at the Institute of Image Processing and Pattern Recognition, Shanghai Jiao Tong University, China. I received my B.S. degree in Department of Automation, Shanghai Jiao Tong University in 2020. My research interests are robust machine learning, model security, and interpretability of DNN.
 
 Education
 ------
-+ M.S. Student in Automation Department, Shanghai Jiao Tong University, Sept. 2020 - Present
++ M.S. Student in Department of Automation, Shanghai Jiao Tong University, Sept. 2020 - Present
    + Rank: 5/95, 88.56 on average for 135 core credits. [[material](https://github.com/AllenChen1998/SJTU-Automation-Materials)]
    + Rank of partial courses: Machine Learning (Top 1), Artificial Intelligence (Top 1), Advanced Mathematics (Top 1.2%).
-+ B.S. in Automation Department, Shanghai Jiao Tong University, Sept. 2016 - Jun. 2020
++ B.S. in Department of Automation, Shanghai Jiao Tong University, Sept. 2016 - Jun. 2020
    + Supervisor: [Xiaolin Huang](http://www.automation.sjtu.edu.cn/ShowPeople.aspx?info_id=2418&info_lb=590&flag=98)
    + Thesis: Semantic-Based Adversarial Attack and Its Transferability
       + [Extraordinary Bachelor's Degree Thesis](http://sjcg.jwc.sjtu.edu.cn/): Top 1% (39/4000+), [[PDF](http://sjcg.jwc.sjtu.edu.cn/375/2020/2020/Dissertation.html)], [[Defense](http://sjcg.jwc.sjtu.edu.cn/375/27/27/Video.html)]
