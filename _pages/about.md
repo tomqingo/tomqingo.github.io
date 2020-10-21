@@ -16,12 +16,12 @@ I'm now a M.S. student at the Institute of Image Processing and Pattern Recognit
 Education
 ------
 + M.S. Student in Department of Automation, Shanghai Jiao Tong University, Sept. 2020 - Present
-   + Rank: 5/95, 88.56 on average for 135 core credits. [[material](https://github.com/AllenChen1998/SJTU-Automation-Materials)]
-   + Rank of partial courses: Machine Learning (Top 1), Artificial Intelligence (Top 1), Advanced Mathematics (Top 1.2%).
-+ B.S. in Department of Automation, Shanghai Jiao Tong University, Sept. 2016 - Jun. 2020
    + Supervisor: [Xiaolin Huang](http://www.automation.sjtu.edu.cn/ShowPeople.aspx?info_id=2418&info_lb=590&flag=98)
++ B.S. Degree in Department of Automation, Shanghai Jiao Tong University, Sept. 2016 - Jun. 2020
+   + Rank: 5/95, 88.56 on average for 135 core credits. [[material](https://github.com/AllenChen1998/SJTU-Automation-Materials)]
+   + Machine Learning (Top 1), Artificial Intelligence (Top 1), Advanced Mathematics (Top 1.2%).
    + Thesis: Semantic-Based Adversarial Attack and Its Transferability
-      + Extraordinary Bachelor's Thesis: Top 1% (39/4000+), [[link](http://sjcg.jwc.sjtu.edu.cn/)], [[PDF](http://sjcg.jwc.sjtu.edu.cn/375/2020/2020/Dissertation.html)], [[Defense](http://sjcg.jwc.sjtu.edu.cn/375/27/27/Video.html)]
+   + Extraordinary Bachelor's Thesis: Top 1% (39/4000+), [[link](http://sjcg.jwc.sjtu.edu.cn/)], [[PDF](http://sjcg.jwc.sjtu.edu.cn/375/2020/2020/Dissertation.html)], [[Defense](http://sjcg.jwc.sjtu.edu.cn/375/27/27/Video.html)]
 
 Academic Research
 ------
