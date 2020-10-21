@@ -11,12 +11,13 @@ redirect_from:
   
 Biography
 ------
-I'm now a first-year M.S. student at the Institute of Image Processing and Pattern Recognition, Shanghai Jiao Tong University, China. I received my B.S. degree in Automation Department, Shanghai Jiao Tong University in 2020. My research interests are model security, robust learning, and interpretability of DNN.
+I'm now a M.S. student at the Institute of Image Processing and Pattern Recognition, Shanghai Jiao Tong University, China. I received my B.S. degree in Automation Department, Shanghai Jiao Tong University in 2020. My research interests are robust machine learning, model security, and interpretability of DNN.
 
 Education
 ------
-+ M.S. Student in Computer Science, Shanghai Jiao Tong University, Sept. 2020 - Present
-   + Supervisor: [Xiaolin Huang](http://www.automation.sjtu.edu.cn/ShowPeople.aspx?info_id=2418&info_lb=590&flag=98)
++ M.S. Student in Automation Department, Shanghai Jiao Tong University, Sept. 2020 - Present
+   + Rank: 5/95, 88.56 on average for 135 core credits. [[material](https://github.com/AllenChen1998/SJTU-Automation-Materials)]
+   + Rank of partial courses: Machine Learning (Top 1), Artificial Intelligence (Top 1), Advanced Mathematics (Top 1.2%).
 + B.S. in Automation Department, Shanghai Jiao Tong University, Sept. 2016 - Jun. 2020
    + Supervisor: [Xiaolin Huang](http://www.automation.sjtu.edu.cn/ShowPeople.aspx?info_id=2418&info_lb=590&flag=98)
    + Thesis: Semantic-Based Adversarial Attack and Its Transferability
@@ -39,7 +40,7 @@ Work Experience
 + Internship, Tencent Zhuque Lab, Jul. 2020 - Sept. 2020.
    + AI security threat matrix. 50% writing of the original maniscript. [[News](https://ai.tencent.com/ailab/zh/news/detial/?id=68)] [[PDF](https://ai.tencent.com/ailab/media/AI%E5%AE%89%E5%85%A8%E7%9A%84%E5%A8%81%E8%83%81%E9%A3%8E%E9%99%A9%E7%9F%A9%E9%98%B5.pdf)]
    + Patent: 模型处理方法、装置、设备及存储介质 (First Inventor, substantive reviewing)
-   + Patent: 模型的恢复方法、装置、存储介质以及电子设备 (First Inventor, substantive reviewing)
+   + Patent: 图像分类方法、装置、电子设备及存储介质 (First Inventor, substantive reviewing)
    + Technical verification and design in popular science propaganda of AI security
 
 Projects
