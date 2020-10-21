@@ -21,7 +21,7 @@ Education
 + B.S. in Department of Automation, Shanghai Jiao Tong University, Sept. 2016 - Jun. 2020
    + Supervisor: [Xiaolin Huang](http://www.automation.sjtu.edu.cn/ShowPeople.aspx?info_id=2418&info_lb=590&flag=98)
    + Thesis: Semantic-Based Adversarial Attack and Its Transferability
-      + [Extraordinary Bachelor's Degree Thesis](http://sjcg.jwc.sjtu.edu.cn/): Top 1% (39/4000+), [[PDF](http://sjcg.jwc.sjtu.edu.cn/375/2020/2020/Dissertation.html)], [[Defense](http://sjcg.jwc.sjtu.edu.cn/375/27/27/Video.html)]
+      + Extraordinary Bachelor's Thesis: Top 1% (39/4000+), [[link](http://sjcg.jwc.sjtu.edu.cn/)], [[PDF](http://sjcg.jwc.sjtu.edu.cn/375/2020/2020/Dissertation.html)], [[Defense](http://sjcg.jwc.sjtu.edu.cn/375/27/27/Video.html)]
 
 Academic Research
 ------
