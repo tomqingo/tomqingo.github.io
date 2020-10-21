@@ -11,7 +11,7 @@ redirect_from:
   
 Biography
 ------
-I'm now a M.S. student at the Institute of Image Processing and Pattern Recognition, Shanghai Jiao Tong University (SJTU), China. I received my B.S. degree in Department of Automation, SJTU in 2020. My research interests are robust machine learning, model security, and interpretability of DNN.
+I'm now a M.S. student at the Institute of Image Processing and Pattern Recognition, Shanghai Jiao Tong University (SJTU), China. I received my B.S. degree in Department of Automation, SJTU in 2020. My research interests are robust machine learning, model security, and DNN interpretability.
 
 Education
 ------
