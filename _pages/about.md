@@ -48,15 +48,15 @@ Projects
 + Endoscopic Processing and Urinary Robotics
    + Organization: Institute of Medical Robotics, Shanghai Jiao Tong University. Tong Ren Hospital, Shanghai.
    + My job: data augmentation by adversarial attack.
-   + Achievements with my contribution: A paper in ISBI, A patent.
+   + Achievements: A paper in ISBI, A patent.
 + Transferable Adversarial Attack in Object Detection
    + Organization: Alibaba, 4th competition of CIKM 2020.
    + My job: leader of team "谁都判不队", architecture design.
-   + Achievements with my contribution: Top 1.5% Ranking. [[Link](https://tianchi.aliyun.com/competition/entrance/531806/rankingList)]
+   + Achievements: Top 1.5% Ranking. [[Link](https://tianchi.aliyun.com/competition/entrance/531806/rankingList)]
 + Real-World Tetris Agent with Robot Arms
    + Course Project of "Digital Image Processing".
    + My job: core algorithm, logic and presentation.
-   + Achievements with my contribution: highest record since the course starts. [[Demo](https://v.qq.com/x/page/a0889zszx7j.html)]
+   + Achievements: highest record since the course starts. [[Demo](https://v.qq.com/x/page/a0889zszx7j.html)]
 
 Awards and Honors
 ------
