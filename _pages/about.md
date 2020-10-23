@@ -48,7 +48,7 @@ Projects
 + Endoscopic Processing and Urinary Robotics
    + Organization: Institute of Medical Robotics, Shanghai Jiao Tong University. Tong Ren Hospital, Shanghai.
    + My job: data augmentation by adversarial attack.
-   + Achievements: A paper in ISBI, A patent.
+   + Achievements: a paper (ISBI) and a patent.
 + Transferable Adversarial Attack in Object Detection
    + Organization: Alibaba, 4th competition of CIKM 2020.
    + My job: leader of team "谁都判不队", architecture design.
