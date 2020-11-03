@@ -18,10 +18,10 @@ Education
 + M.S. Student in Department of Automation, SJTU, Sept. 2020 - Present.
    + Supervisor: [Xiaolin Huang](http://www.automation.sjtu.edu.cn/ShowPeople.aspx?info_id=2418&info_lb=590&flag=98)
 + B.S. Degree in Department of Automation, SJTU, Sept. 2016 - Jun. 2020.
-   + Rank: 5/95, 88.56 on average for 135 core credits. [[material](https://github.com/AllenChen1998/SJTU-Automation-Materials)]
+   + Rank: 5/95, 88.56 on average for 135 core credits. [[Material](https://github.com/AllenChen1998/SJTU-Automation-Materials)]
    + Machine Learning (Top 1), Artificial Intelligence (Top 1), Advanced Mathematics (1.2%).
    + Thesis: Semantic-Based Adversarial Attack and Its Transferability.
-   + Extraordinary Bachelor's Thesis: Top 1% (39/4000+). [[link](http://sjcg.jwc.sjtu.edu.cn/)], [[PDF](http://sjcg.jwc.sjtu.edu.cn/375/2020/2020/Dissertation.html)], [[Defense](http://sjcg.jwc.sjtu.edu.cn/375/27/27/Video.html)]
+   + Extraordinary Bachelor's Thesis: Top 1% (39/4000+). [[News](https://news.sjtu.edu.cn/jdzh/20201102/133855.html)], [[PDF](http://sjcg.jwc.sjtu.edu.cn/375/2020/2020/Dissertation.html)], [[Defense](http://sjcg.jwc.sjtu.edu.cn/375/27/27/Video.html)]
 
 Academic Research
 ------
@@ -69,6 +69,6 @@ Student Work
 ------
 + President of Piano Association in Shanghai Jiao Tong University, Sept. 2017 - Sept. 2018.
 + Chief Director of 3 concerts, each with 1K+ live viewers.
-+ 10+ piano performance on the stage of school events. [[videos](https://mp.weixin.qq.com/s?__biz=Mzg2MDA2Mjc1Ng==&mid=100000090&idx=1&sn=0821a4c2341669ec5b49fe467c23696c&chksm=4e2d5411795add07b6dbb339f7b09f70a33d17027f970cae6e35e4e683b0d4e2b66f51cf7bef&mpshare=1&scene=1&srcid=1021b5QMI6YsYOpieovE9ZQQ&sharer_sharetime=1603267780784&sharer_shareid=854bac99d67db70d9973adcbca4dc98e&key=90349d069103c4031feaa74c647eb28f6e7b3f3dda349616729c312551674b22d3fa08725ce2b3f99cd566e760fedd4d49319497ae0f1d004f5c3cc7b40d8361365533b1c9d6211820ad1516cc9d837dbe0423f342ebcc504ea91269a125ca808abae47e97c4e50aa7a1efff2656bd4d311a36149e62e56c7a395a0558cf4869&ascene=1&uin=MjEwNzAwOTIzMg%3D%3D&devicetype=Windows+10+x64&version=6300002f&lang=zh_CN&exportkey=AQ9aaG10cjU2NNOtMdwtpLg%3D&pass_ticket=wRecyC0amGH8W8z5qXGoeupl1o5YE%2FbnivrXViODDPJxTuAKpnur%2Fylkyhz6JTc4&wx_header=0)]
++ 10+ piano performance on the stage of school events. [[Videos](https://mp.weixin.qq.com/s?__biz=Mzg2MDA2Mjc1Ng==&mid=100000090&idx=1&sn=0821a4c2341669ec5b49fe467c23696c&chksm=4e2d5411795add07b6dbb339f7b09f70a33d17027f970cae6e35e4e683b0d4e2b66f51cf7bef&mpshare=1&scene=1&srcid=1021b5QMI6YsYOpieovE9ZQQ&sharer_sharetime=1603267780784&sharer_shareid=854bac99d67db70d9973adcbca4dc98e&key=90349d069103c4031feaa74c647eb28f6e7b3f3dda349616729c312551674b22d3fa08725ce2b3f99cd566e760fedd4d49319497ae0f1d004f5c3cc7b40d8361365533b1c9d6211820ad1516cc9d837dbe0423f342ebcc504ea91269a125ca808abae47e97c4e50aa7a1efff2656bd4d311a36149e62e56c7a395a0558cf4869&ascene=1&uin=MjEwNzAwOTIzMg%3D%3D&devicetype=Windows+10+x64&version=6300002f&lang=zh_CN&exportkey=AQ9aaG10cjU2NNOtMdwtpLg%3D&pass_ticket=wRecyC0amGH8W8z5qXGoeupl1o5YE%2FbnivrXViODDPJxTuAKpnur%2Fylkyhz6JTc4&wx_header=0)]
 
 ![](images/piano.jpg)
