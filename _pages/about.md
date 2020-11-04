@@ -35,6 +35,10 @@ Academic Research
 
 \* indicates equal contribution. \*\* indicates the corresponding author. 
 
+Services
+------
++ Reviewer, Pattern Recognition (PR)
+
 Work Experience
 ------
 + Internship, Tencent Zhuque Lab, Jul. 2020 - Sept. 2020.
