@@ -26,7 +26,7 @@ Education
 Academic Research
 ------
 + **Sizhe Chen**, Zhengbao He, Chengjin Sun, Jie Yang, Xiaolin Huang\*\*. Universal Adversarial Attack on Attention and the Resulting Dataset DamageNet. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2020. [[News](https://news.sjtu.edu.cn/jdzh/20201102/133855.html)], [[PDF](https://ieeexplore.ieee.org/document/9238430)]
-+ **Sizhe Chen**, Fan He, Xiaolin Huang\*\*, Kun Zhang. Relevance Attack on Detectors. Under review of International Conference on Learning Representations (ICLR), 2021. [[PDF](https://openreview.net/forum?id=_b8l7rVPe8z)]
++ **Sizhe Chen**, Fan He, Xiaolin Huang\*\*, Kun Zhang. Relevance Attack on Detectors. Submitted to International Conference on Learning Representations (ICLR), 2021.
 + **Sizhe Chen**, Qinghua Tao, Zhehao Huang, Xiaolin Huang\*\*. Better White-Box Model, Better Black-Box Attack. Submitted to Annual Conference on Neural Information Processing Systems Workshop (NeurIPSW), 2020.
 + Chengjin Sun, **Sizhe Chen**, Jia Cai, Xiaolin Huang\*\*. Type I attack for generative models. International Conference on Image Processing (ICIP), 2020. [[PDF](https://arxiv.org/abs/2003.01872)]
 + Zhixing Ye\*, **Sizhe Chen\***, Peidong Zhang, Chengjin Sun, Jia Cai, Xiaolin Huang\*\*. HRFA: High-Resolution Feature-Based Attack. Under review of International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2021. [[PDF](https://arxiv.org/abs/2001.07631)]
@@ -37,7 +37,7 @@ Academic Research
 
 Services
 ------
-+ Reviewer, Pattern Recognition (PR)
++ **Reviewer**, Pattern Recognition (PR), IEEE ISBI 2021.
 
 Work Experience
 ------
