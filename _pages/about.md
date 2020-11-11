@@ -21,7 +21,7 @@ Education
    + Rank: 5/95, 88.56 on average for 135 core credits. [[Material](https://github.com/AllenChen1998/SJTU-Automation-Materials)]
    + Machine Learning (Top 1), Artificial Intelligence (Top 1), Advanced Mathematics (1.2%).
    + Thesis: Semantic-Based Adversarial Attack and Its Transferability.
-   + Extraordinary Bachelor's Thesis: Top 1% (39/4000+). [[News](http://www.automation.sjtu.edu.cn/Show.aspx?info_lb=610&info_id=2890&flag=101)], [[PDF](http://sjcg.jwc.sjtu.edu.cn/375/2020/2020/Dissertation.html)], [[Defense](http://sjcg.jwc.sjtu.edu.cn/375/27/27/Video.html)]
+   + Extraordinary Bachelor's Thesis: Top 1% (39/4000+). [[News](https://news.sjtu.edu.cn/jdzh/20201102/133855.html)], [[PDF](http://sjcg.jwc.sjtu.edu.cn/375/2020/2020/Dissertation.html)], [[Defense](http://sjcg.jwc.sjtu.edu.cn/375/27/27/Video.html)]
 
 Academic Research
 ------
