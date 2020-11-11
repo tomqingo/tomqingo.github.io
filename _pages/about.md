@@ -21,7 +21,7 @@ Education
    + Rank: 5/95, 88.56 on average for 135 core credits. [[Material](https://github.com/AllenChen1998/SJTU-Automation-Materials)]
    + Machine Learning (Top 1), Artificial Intelligence (Top 1), Advanced Mathematics (1.2%).
    + Thesis: Semantic-Based Adversarial Attack and Its Transferability.
-   + Extraordinary Bachelor's Thesis: Top 1% (39/4000+). [[News](https://news.sjtu.edu.cn/jdzh/20201102/133855.html)], [[PDF](http://sjcg.jwc.sjtu.edu.cn/375/2020/2020/Dissertation.html)], [[Defense](http://sjcg.jwc.sjtu.edu.cn/375/27/27/Video.html)]
+   + Extraordinary Bachelor's Thesis: Top 1% (39/4000+). [[News](https://news.sjtu.edu.cn/jdzh/20201102/133855.html)], [[PDF](http://sjcg.jwc.sjtu.edu.cn/375/2020/2020/Dissertation.html)], [[Defense](https://v.qq.com/x/page/p31356mbu5g.html)]
 
 Academic Research
 ------
@@ -29,9 +29,9 @@ Academic Research
 + **Sizhe Chen**, Fan He, Xiaolin Huang\*\*, Kun Zhang. Relevance Attack on Detectors. Submitted to International Conference on Learning Representations (ICLR), 2021.
 + **Sizhe Chen**, Qinghua Tao, Zhehao Huang, Xiaolin Huang\*\*. Better White-Box Model, Better Black-Box Attack. Submitted to Annual Conference on Neural Information Processing Systems Workshop (NeurIPSW), 2020.
 + Chengjin Sun, **Sizhe Chen**, Jia Cai, Xiaolin Huang\*\*. Type I attack for generative models. International Conference on Image Processing (ICIP), 2020. [[PDF](https://arxiv.org/abs/2003.01872)]
-+ Zhixing Ye\*, **Sizhe Chen\***, Peidong Zhang, Chengjin Sun, Jia Cai, Xiaolin Huang\*\*. HRFA: High-Resolution Feature-Based Attack. Under review of International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2021. [[PDF](https://arxiv.org/abs/2001.07631)]
-+ Fan He, **Sizhe Chen**, Shuaiyi Li, Lu Zhou, Haiqin Zhang, Haixia Peng, Xiaolin Huang\*\*. Endoscopic Image Synthesis for Polyp Detector Enhancement Via Adversarial Attack. Under review of International Symposium on Biomedical Imaging (ISBI), 2021. 
 + Chengjin Sun, **Sizhe Chen**, Xiaolin Huang\*\*. 	Double Backpropagation for Training Autoencoders against Adversarial Attack. Submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI). [[PDF](https://arxiv.org/abs/2003.01895)]
++ Zhixing Ye\*, **Sizhe Chen\***, Peidong Zhang, Chengjin Sun, Jia Cai, Xiaolin Huang\*\*. HRFA: High-Resolution Feature-Based Attack. Submitted to International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2021. [[PDF](https://arxiv.org/abs/2001.07631)]
++ Fan He, **Sizhe Chen**, Shuaiyi Li, Lu Zhou, Haiqin Zhang, Haixia Peng, Xiaolin Huang\*\*. Endoscopic Image Synthesis for Polyp Detector Enhancement Via Adversarial Attack. Submitted to International Symposium on Biomedical Imaging (ISBI), 2021. 
 
 \* indicates equal contribution. \*\* indicates the corresponding author. 
 
