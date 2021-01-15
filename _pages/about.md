@@ -40,7 +40,7 @@ Academic Research
 Services
 ------
 + **Reviewer**, Pattern Recognition, IEEE ISBI 2021.
-+ Volunteer of Traffic·Future Scientific and Innovative Competition, 2020. [Web](https://jtwl.sjtu.edu.cn/)
++ Volunteer of Traffic·Future Scientific and Innovative Competition, 2020. [[Web](https://jtwl.sjtu.edu.cn)]
 + Volunteer of Shanghai International Half Marathon, 2018.
 + 6 blood donation
 
