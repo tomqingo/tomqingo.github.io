@@ -21,31 +21,35 @@ Education
    + Rank: 5/95, 88.56 on average for 135 core credits. [[Material](https://github.com/AllenChen1998/SJTU-Automation-Materials)]
    + Machine Learning (Top 1), Artificial Intelligence (Top 1), Advanced Mathematics (1.2%).
    + Thesis: Semantic-Based Adversarial Attack and Its Transferability.
-   + Extraordinary Bachelor's Thesis: Top 1% (39/4000+). [[News](https://news.sjtu.edu.cn/jdzh/20201102/133855.html)], [[PDF](http://sjcg.jwc.sjtu.edu.cn/375/2020/2020/Dissertation.html)], [[Defense](https://v.qq.com/x/page/p31356mbu5g.html)]
+   + Extraordinary Bachelor's Thesis: Top 1% (39/4000+). [[News](http://www.automation.sjtu.edu.cn/show.aspx?info_lb=610&flag=101&info_id=2890)], [[Defense](https://v.qq.com/x/page/p31356mbu5g.html)]
 
 Academic Research
 ------
 + **Sizhe Chen**, Zhengbao He, Chengjin Sun, Jie Yang, Xiaolin Huang\*\*. Universal Adversarial Attack on Attention and the Resulting Dataset DamageNet. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2020. [[News](https://news.sjtu.edu.cn/jdzh/20201102/133855.html)], [[PDF](https://ieeexplore.ieee.org/document/9238430)]
-+ **Sizhe Chen**, Fan He, Xiaolin Huang\*\*, Kun Zhang. Relevance Attack on Detectors. Submitted to International Conference on Learning Representations (ICLR), 2021.
-+ **Sizhe Chen**, Qinghua Tao, Zhehao Huang, Xiaolin Huang\*\*. Better White-Box Model, Better Black-Box Attack. Submitted to Annual Conference on Neural Information Processing Systems Workshop (NeurIPSW), 2020.
-+ **Sizhe Chen**, Qinghua Tao, Zhixing Ye, Xiaolin Huang\*\*. Break the l2 Limit of Attack Transferability. Submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).
++ **Sizhe Chen**, Fan He, Xiaolin Huang\*\*, Kun Zhang. Relevance Attack on Detectors. Submitted to Pattern Recognition (PR), 2021.
++ **Sizhe Chen**, Qinghua Tao, Zhehao Huang, Xiaolin Huang\*\*. Better White-Box Model, Better Black-Box Attack.
++ **Sizhe Chen**, Qinghua Tao, Zhixing Ye, Xiaolin Huang\*\*. Break the l2 Limit of Attack Transferability.
 + Chengjin Sun, **Sizhe Chen**, Jia Cai, Xiaolin Huang\*\*. Type I attack for generative models. International Conference on Image Processing (ICIP), 2020. [[PDF](https://arxiv.org/abs/2003.01872)]
-+ Chengjin Sun, **Sizhe Chen**, Xiaolin Huang\*\*. 	Double Backpropagation for Training Autoencoders against Adversarial Attack. Submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI). [[PDF](https://arxiv.org/abs/2003.01895)]
-+ Zhixing Ye\*, **Sizhe Chen\***, Peidong Zhang, Chengjin Sun, Jia Cai, Xiaolin Huang\*\*. HRFA: High-Resolution Feature-Based Attack. Submitted to International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2021. [[PDF](https://arxiv.org/abs/2001.07631)]
-+ Fan He, **Sizhe Chen**, Shuaiyi Li, Lu Zhou, Haiqin Zhang, Haixia Peng, Xiaolin Huang\*\*. Endoscopic Image Synthesis for Polyp Detector Enhancement Via Adversarial Attack. Submitted to International Symposium on Biomedical Imaging (ISBI), 2021. 
++ Fan He, **Sizhe Chen**, Shuaiyi Li, Lu Zhou, Haiqin Zhang, Haixia Peng, Xiaolin Huang\*\*. Colonoscopi Image Synthesis for Polyp Detector Enhancement Via GAN and Adversarial Attack. International Symposium on Biomedical Imaging (ISBI), 2021. 
++ Chengjin Sun, **Sizhe Chen**, Xiaolin Huang\*\*.	Double Backpropagation for Training Autoencoders against Adversarial Attack. [[PDF](https://arxiv.org/abs/2003.01895)]
++ Zhixing Ye\*, **Sizhe Chen\***, Peidong Zhang, Chengjin Sun, Jia Cai, Xiaolin Huang\*\*. HRFA: High-Resolution Feature-Based Attack. [[PDF](https://arxiv.org/abs/2001.07631)]
+
 
 \* indicates equal contribution. \*\* indicates the corresponding author. 
 
 Services
 ------
-+ **Reviewer**, Pattern Recognition ([PR](https://www.reviewerrecognition.elsevier.com/#/profile/49a67395-7a7c-4bef-8700-a4491f59bd0c)), IEEE ISBI 2021.
++ **Reviewer**, Pattern Recognition, IEEE ISBI 2021.
++ Volunteer of Traffic·Future Scientific and Innovative Competition, 2020. [Web](https://jtwl.sjtu.edu.cn/)
++ Volunteer of Shanghai International Half Marathon, 2018.
++ 6 blood donation
 
 Work Experience
 ------
 + Internship, Tencent Zhuque Lab, Jul. 2020 - Sept. 2020.
    + AI security threat matrix. 50% writing of the original maniscript. [[News](https://ai.tencent.com/ailab/zh/news/detial/?id=68)] [[PDF](https://ai.tencent.com/ailab/media/AI%E5%AE%89%E5%85%A8%E7%9A%84%E5%A8%81%E8%83%81%E9%A3%8E%E9%99%A9%E7%9F%A9%E9%98%B5.pdf)]
-   + Patent: 模型处理方法、装置、设备及存储介质 (First Inventor, reviewing)
-   + Patent: 图像分类方法、装置、电子设备及存储介质 (First Inventor, reviewing)
+   + Patent: 模型处理方法、装置、设备及存储介质 (First Inventor)
+   + Patent: 图像分类方法、装置、电子设备及存储介质 (First Inventor)
    + Technical verification and design in popular science propaganda of AI security.
 
 Projects
