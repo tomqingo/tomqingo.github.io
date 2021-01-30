@@ -27,8 +27,8 @@ Research
 ------
 + **Sizhe Chen**, Zhengbao He, Chengjin Sun, Jie Yang, Xiaolin Huang\*\*. Universal Adversarial Attack on Attention and the Resulting Dataset DamageNet. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2020. [[News](https://news.sjtu.edu.cn/jdzh/20201102/133855.html)], [[PDF](https://ieeexplore.ieee.org/document/9238430)]
 + **Sizhe Chen**, Fan He, Xiaolin Huang\*\*, Kun Zhang. Relevance Attack on Detectors. Submitted to Pattern Recognition (PR), 2021.
-+ **Sizhe Chen**, Qinghua Tao, Zhixing Ye, Xiaolin Huang\*\*. Break the l2 Limit of Attack Transferability. Submitted to International Conference on Uncertainty in Artificial Intelligence (UAI), 2021.
-+ **Sizhe Chen**, Qinghua Tao, Zhehao Huang, Xiaolin Huang\*\*. Better White-Box Model, Better Black-Box Attack.
++ **Sizhe Chen**, Qinghua Tao, Zhixing Ye, Xiaolin Huang\*\*. Go Far for Attack Transferability. Submitted to International Conference on Uncertainty in Artificial Intelligence (UAI), 2021.
++ **Sizhe Chen**, Qinghua Tao, Zhehao Huang, Xiaolin Huang\*\*. Exploiting Every Query for Efficient Attack.
 + Chengjin Sun, **Sizhe Chen**, Jia Cai, Xiaolin Huang\*\*. Type I attack for generative models. International Conference on Image Processing (ICIP), 2020. [[PDF](https://arxiv.org/abs/2003.01872)]
 + Fan He, **Sizhe Chen**, Shuaiyi Li, Lu Zhou, Haiqin Zhang, Haixia Peng, Xiaolin Huang\*\*. Colonoscopi Image Synthesis for Polyp Detector Enhancement Via GAN and Adversarial Attack. International Symposium on Biomedical Imaging (ISBI), 2021. 
 + Chengjin Sun, **Sizhe Chen**, Xiaolin Huang\*\*.	Double Backpropagation for Training Autoencoders against Adversarial Attack. [[PDF](https://arxiv.org/abs/2003.01895)]
