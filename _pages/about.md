@@ -43,8 +43,6 @@ Work
    + Patent: 模型处理方法、装置、设备及存储介质 (First Inventor)
    + Patent: 图像分类方法、装置、电子设备及存储介质 (First Inventor)
    + Technical verification and design in popular science propaganda of AI security.
-<Project>
-<------>
 + Project: Endoscopic Processing and Urinary Robotics
    + Organization: Institute of Medical Robotics, Shanghai Jiao Tong University. Tong Ren Hospital, Shanghai.
    + My job: data augmentation by adversarial attack.
@@ -76,5 +74,3 @@ Service
 + Volunteer of Traffic·Future Scientific Competition, 2020. [[Web](https://jtwl.sjtu.edu.cn)]
 + Volunteer of Shanghai International Half Marathon, 2018.
 + 6 blood donation.
-
-<![](images/piano.jpg)>
