@@ -37,12 +37,12 @@ Research
 Work
 ------
 + Internship: Tencent Zhuque Lab, Jul. 2020 - Sept. 2020.
-   + Technical report: AI security threat matrix. 50% writing of the original maniscript. [[News](https://ai.tencent.com/ailab/zh/news/detial/?id=68)] [[PDF](https://ai.tencent.com/ailab/media/AI%E5%AE%89%E5%85%A8%E7%9A%84%E5%A8%81%E8%83%81%E9%A3%8E%E9%99%A9%E7%9F%A9%E9%98%B5.pdf)]
+   + Technical report: AI security threat matrix. 50% of the writing. [[News](https://ai.tencent.com/ailab/zh/news/detial/?id=68)] [[PDF](https://ai.tencent.com/ailab/media/AI%E5%AE%89%E5%85%A8%E7%9A%84%E5%A8%81%E8%83%81%E9%A3%8E%E9%99%A9%E7%9F%A9%E9%98%B5.pdf)]
    + Patent: 模型处理方法、装置、设备及存储介质 (First Inventor)
    + Patent: 图像分类方法、装置、电子设备及存储介质 (First Inventor)
    + Technical verification and design in popular science propaganda of AI security.
 + Lab Project: Endoscopic Processing and Urinary Robotics
-   + Organization: Institute of Medical Robotics, Shanghai Jiao Tong University. Tong Ren Hospital, Shanghai.
+   + Organization: Institute of Medical Robotics, SJTU. Shanghai Tong Ren Hospital.
    + My job: data augmentation by adversarial attack.
    + Achievements: a paper (ISBI) and a patent.
 + Competition: Transferable Adversarial Attack in Object Detection
