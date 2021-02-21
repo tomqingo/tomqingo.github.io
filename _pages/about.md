@@ -37,11 +37,11 @@ Research
 Work
 ------
 + Internship: Tencent Zhuque Lab, Jul. 2020 - Sept. 2020.
-   + AI security threat matrix. 50% writing of the original maniscript. [[News](https://ai.tencent.com/ailab/zh/news/detial/?id=68)] [[PDF](https://ai.tencent.com/ailab/media/AI%E5%AE%89%E5%85%A8%E7%9A%84%E5%A8%81%E8%83%81%E9%A3%8E%E9%99%A9%E7%9F%A9%E9%98%B5.pdf)]
+   + Technical report: AI security threat matrix. 50% writing of the original maniscript. [[News](https://ai.tencent.com/ailab/zh/news/detial/?id=68)] [[PDF](https://ai.tencent.com/ailab/media/AI%E5%AE%89%E5%85%A8%E7%9A%84%E5%A8%81%E8%83%81%E9%A3%8E%E9%99%A9%E7%9F%A9%E9%98%B5.pdf)]
    + Patent: 模型处理方法、装置、设备及存储介质 (First Inventor)
    + Patent: 图像分类方法、装置、电子设备及存储介质 (First Inventor)
    + Technical verification and design in popular science propaganda of AI security.
-+ Project: Endoscopic Processing and Urinary Robotics
++ Lab Project: Endoscopic Processing and Urinary Robotics
    + Organization: Institute of Medical Robotics, Shanghai Jiao Tong University. Tong Ren Hospital, Shanghai.
    + My job: data augmentation by adversarial attack.
    + Achievements: a paper (ISBI) and a patent.
@@ -49,8 +49,8 @@ Work
    + Organization: Alibaba, 4th competition of CIKM 2020.
    + My job: leader of team "谁都判不队", architecture design.
    + Achievements: Top 1.5% Ranking. [[Link](https://tianchi.aliyun.com/competition/entrance/531806/rankingList)]
-+ Project: Real-World Tetris Agent with Robot Arms
-   + Course Project of "Digital Image Processing".
++ Course Project: Real-World Tetris Agent with Robot Arms
+   + Course: Digital Image Processing.
    + My job: core algorithm, logic and presentation.
    + Achievements: highest record since the course starts. [[Demo](https://v.qq.com/x/page/a0889zszx7j.html)]
 + Student Work: Piano Association of SJTU
