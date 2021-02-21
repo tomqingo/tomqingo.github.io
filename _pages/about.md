@@ -27,37 +27,40 @@ Research
 ------
 + **Sizhe Chen**, Zhengbao He, Chengjin Sun, Jie Yang, Xiaolin Huang\*\*. Universal Adversarial Attack on Attention and the Resulting Dataset DamageNet. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2020. [[News](https://news.sjtu.edu.cn/jdzh/20201102/133855.html)], [[PDF](https://ieeexplore.ieee.org/document/9238430)]
 + **Sizhe Chen**, Fan He, Xiaolin Huang\*\*, Kun Zhang. Relevance Attack on Detectors. Submitted to Pattern Recognition (PR), 2021.
-+ **Sizhe Chen**, Qinghua Tao, Zhixing Ye, Xiaolin Huang\*\*. Go Far for Attack Transferability. Submitted to International Conference on Uncertainty in Artificial Intelligence (UAI), 2021.
++ **Sizhe Chen**, Qinghua Tao, Zhixing Ye, Xiaolin Huang\*\*. Going Far Boosts Attack Transferability, but Do Not Do It. Submitted to International Conference on Uncertainty in Artificial Intelligence (UAI), 2021.
 + **Sizhe Chen**, Qinghua Tao, Zhehao Huang, Xiaolin Huang\*\*. Exploiting Every Query for Efficient Attack.
 + Chengjin Sun, **Sizhe Chen**, Jia Cai, Xiaolin Huang\*\*. Type I attack for generative models. International Conference on Image Processing (ICIP), 2020. [[PDF](https://arxiv.org/abs/2003.01872)]
 + Fan He, **Sizhe Chen**, Shuaiyi Li, Lu Zhou, Haiqin Zhang, Haixia Peng, Xiaolin Huang\*\*. Colonoscopi Image Synthesis for Polyp Detector Enhancement Via GAN and Adversarial Attack. International Symposium on Biomedical Imaging (ISBI), 2021. 
-+ Chengjin Sun, **Sizhe Chen**, Xiaolin Huang\*\*.	Double Backpropagation for Training Autoencoders against Adversarial Attack. [[PDF](https://arxiv.org/abs/2003.01895)]
-+ Zhixing Ye\*, **Sizhe Chen\***, Peidong Zhang, Chengjin Sun, Jia Cai, Xiaolin Huang\*\*. HRFA: High-Resolution Feature-Based Attack. [[PDF](https://arxiv.org/abs/2001.07631)]
+<+ Chengjin Sun, **Sizhe Chen**, Xiaolin Huang\*\*.	Double Backpropagation for Training Autoencoders against Adversarial Attack. [[PDF](https://arxiv.org/abs/2003.01895)]>
+<+ Zhixing Ye\*, **Sizhe Chen\***, Peidong Zhang, Chengjin Sun, Jia Cai, Xiaolin Huang\*\*. HRFA: High-Resolution Feature-Based Attack. [[PDF](https://arxiv.org/abs/2001.07631)]>
 
 \* indicates equal contribution. \*\* indicates the corresponding author. 
 
 Work
 ------
-+ Internship, Tencent Zhuque Lab, Jul. 2020 - Sept. 2020.
++ Internship: Tencent Zhuque Lab, Jul. 2020 - Sept. 2020.
    + AI security threat matrix. 50% writing of the original maniscript. [[News](https://ai.tencent.com/ailab/zh/news/detial/?id=68)] [[PDF](https://ai.tencent.com/ailab/media/AI%E5%AE%89%E5%85%A8%E7%9A%84%E5%A8%81%E8%83%81%E9%A3%8E%E9%99%A9%E7%9F%A9%E9%98%B5.pdf)]
    + Patent: 模型处理方法、装置、设备及存储介质 (First Inventor)
    + Patent: 图像分类方法、装置、电子设备及存储介质 (First Inventor)
    + Technical verification and design in popular science propaganda of AI security.
-
-Project
-------
-+ Endoscopic Processing and Urinary Robotics
+<Project>
+<------>
++ Project: Endoscopic Processing and Urinary Robotics
    + Organization: Institute of Medical Robotics, Shanghai Jiao Tong University. Tong Ren Hospital, Shanghai.
    + My job: data augmentation by adversarial attack.
    + Achievements: a paper (ISBI) and a patent.
-+ Transferable Adversarial Attack in Object Detection
++ Competition: Transferable Adversarial Attack in Object Detection
    + Organization: Alibaba, 4th competition of CIKM 2020.
    + My job: leader of team "谁都判不队", architecture design.
    + Achievements: Top 1.5% Ranking. [[Link](https://tianchi.aliyun.com/competition/entrance/531806/rankingList)]
-+ Real-World Tetris Agent with Robot Arms
++ Project: Real-World Tetris Agent with Robot Arms
    + Course Project of "Digital Image Processing".
    + My job: core algorithm, logic and presentation.
    + Achievements: highest record since the course starts. [[Demo](https://v.qq.com/x/page/a0889zszx7j.html)]
++ Student Work: Piano Association of SJTU
+   + President of Piano Association in Shanghai Jiao Tong University, 2017 - 2018.
+   + My job: Chief Director of 3 concerts, each with 1K+ live viewers.
+   + 10+ piano performance on the stage of school events. [[Videos](https://mp.weixin.qq.com/s?__biz=Mzg2MDA2Mjc1Ng==&mid=100000090&idx=1&sn=0821a4c2341669ec5b49fe467c23696c&chksm=4e2d5411795add07b6dbb339f7b09f70a33d17027f970cae6e35e4e683b0d4e2b66f51cf7bef&mpshare=1&scene=1&srcid=1021b5QMI6YsYOpieovE9ZQQ&sharer_sharetime=1603267780784&sharer_shareid=854bac99d67db70d9973adcbca4dc98e&key=90349d069103c4031feaa74c647eb28f6e7b3f3dda349616729c312551674b22d3fa08725ce2b3f99cd566e760fedd4d49319497ae0f1d004f5c3cc7b40d8361365533b1c9d6211820ad1516cc9d837dbe0423f342ebcc504ea91269a125ca808abae47e97c4e50aa7a1efff2656bd4d311a36149e62e56c7a395a0558cf4869&ascene=1&uin=MjEwNzAwOTIzMg%3D%3D&devicetype=Windows+10+x64&version=6300002f&lang=zh_CN&exportkey=AQ9aaG10cjU2NNOtMdwtpLg%3D&pass_ticket=wRecyC0amGH8W8z5qXGoeupl1o5YE%2FbnivrXViODDPJxTuAKpnur%2Fylkyhz6JTc4&wx_header=0)]
 
 Award
 ------
@@ -74,10 +77,4 @@ Service
 + Volunteer of Shanghai International Half Marathon, 2018.
 + 6 blood donation.
 
-Student Work
-------
-+ President of Piano Association in Shanghai Jiao Tong University, 2017 - 2018.
-+ Chief Director of 3 concerts, each with 1K+ live viewers.
-+ 10+ piano performance on the stage of school events. [[Videos](https://mp.weixin.qq.com/s?__biz=Mzg2MDA2Mjc1Ng==&mid=100000090&idx=1&sn=0821a4c2341669ec5b49fe467c23696c&chksm=4e2d5411795add07b6dbb339f7b09f70a33d17027f970cae6e35e4e683b0d4e2b66f51cf7bef&mpshare=1&scene=1&srcid=1021b5QMI6YsYOpieovE9ZQQ&sharer_sharetime=1603267780784&sharer_shareid=854bac99d67db70d9973adcbca4dc98e&key=90349d069103c4031feaa74c647eb28f6e7b3f3dda349616729c312551674b22d3fa08725ce2b3f99cd566e760fedd4d49319497ae0f1d004f5c3cc7b40d8361365533b1c9d6211820ad1516cc9d837dbe0423f342ebcc504ea91269a125ca808abae47e97c4e50aa7a1efff2656bd4d311a36149e62e56c7a395a0558cf4869&ascene=1&uin=MjEwNzAwOTIzMg%3D%3D&devicetype=Windows+10+x64&version=6300002f&lang=zh_CN&exportkey=AQ9aaG10cjU2NNOtMdwtpLg%3D&pass_ticket=wRecyC0amGH8W8z5qXGoeupl1o5YE%2FbnivrXViODDPJxTuAKpnur%2Fylkyhz6JTc4&wx_header=0)]
-
-![](images/piano.jpg)
+<![](images/piano.jpg)>
