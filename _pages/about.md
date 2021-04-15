@@ -22,7 +22,7 @@ Education
 + B.S. Degree in Department of Instrument Science and Engineering, SJTU, Sept. 2015 - Jun. 2019.
    + Rank: 4/56, GPA: 3.74/4.0 on average.
    + Relevant Courses: Machine Learning, Linear Algebra, Caculus, Statistics, C++ Programming and Data Structure
-   + Undergraduate Thesis: Performance Improvement Strategy for Mixed Precision Quantized Neural Network [[DownLoad](https://github.com/tomqingo/tomqingo.github.io/blob/master/files/Undergraduate%20thesis.pdf)]
+   + Undergraduate Thesis: Performance Improvement Strategy for Mixed Precision Quantized Neural Network [![DownLoad](https://github.com/tomqingo/tomqingo.github.io/blob/master/files/Undergraduate%20thesis.pdf)]
 
 Publication
 ------
