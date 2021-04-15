@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sizhe Chen"
+  name             : "Qin Luo"
   avatar           : "profile.jpg"
   bio              : "M.S. Student, SJTU"
   location         : "Shanghai, China"
   employer         :
   googlescholar    : "https://scholar.google.com.hk/citations?user=X-JmE9UAAAAJ&hl=zh-CN"
-  email            : "sizhe.chen@sjtu.edu.cn"
+  email            : "tomqin@sjtu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -95,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "allenchen1998"
+  github           : "tomqingo"
   google_plus      :
   keybase          :
   instagram        :
