@@ -16,7 +16,7 @@ I'm a Master student at the Institute of Image Processing and Pattern Recognitio
 Education
 ------
 + M.S. Student in Department of Automation, SJTU, Sept. 2019 - Present.
-   + Supervisor: [Xiaolin Huang](http://www.automation.sjtu.edu.cn/ShowPeople.aspx?info_id=2418&info_lb=590&flag=98)
+   + Supervisor: [Xiaolin Huang](https://automation.sjtu.edu.cn/xiaolin)
    + GPA:3.51/4.0 on average
    + Relevant Courses: Digital Image Processing, Computer Vision, Matrix Theory, Convex Optimization
 + B.S. Degree in Department of Instrument Science and Engineering, SJTU, Sept. 2015 - Jun. 2019.
@@ -47,7 +47,7 @@ Research Project
 Work Experience
 -----
 + Internship: Megvii Research Shanghai, Dec. 2020 - Jan. 2021
-   + Mentor: Yichen Wei(https://yichenwei.github.io/), Yuke Zhu
+   + Mentor: [Yichen Wei](https://yichenwei.github.io/), Yuke Zhu
    + Development of action recognition model badcase analysis toolkit based on CAM.
    + Research on non local method and its alternatives to optimize action recognition model.
 + Lab Project: Computer vision tasks in Medtronic endoscopic system, Dec. 2019 - Mar. 2021
