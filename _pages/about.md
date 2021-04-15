@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Sizhe Chen's homepage"
+title: "Qin Luo's homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -11,28 +11,25 @@ redirect_from:
   
 Biography
 ------
-I'm a M.S. student at the Institute of Image Processing and Pattern Recognition, Department of Automation, Shanghai Jiao Tong University (SJTU), China. I received my B.S. degree in Department of Automation, SJTU in 2020. My research interests are adversarial machine learning, model security, and interpretability of DNN.
+I'm a Master student at the Institute of Image Processing and Pattern Recognition, Department of Automation, Shanghai Jiao Tong University (SJTU), China. I received my B.S. degree in Instrument Science and Engineering, SJTU in 2019. My research interests include kernel methods, neural network compression and computer vision. I am conducting the research on the random features for
 
 Education
 ------
-+ M.S. Student in Department of Automation, SJTU, Sept. 2020 - Present.
++ M.S. Student in Department of Automation, SJTU, Sept. 2019 - Present.
    + Supervisor: [Xiaolin Huang](http://www.automation.sjtu.edu.cn/ShowPeople.aspx?info_id=2418&info_lb=590&flag=98)
-+ B.S. Degree in Department of Automation, SJTU, Sept. 2016 - Jun. 2020.
-   + Rank: 5/95, 88.56 on average for 135 core credits. [[Material](https://github.com/AllenChen1998/SJTU-Automation-Materials)]
-   + Machine Learning (Top 1), Artificial Intelligence (Top 1), Advanced Mathematics (1.2%).
-   + Thesis: Semantic-Based Adversarial Attack and Its Transferability.
-   + Extraordinary Bachelor's Thesis: Top 1% (39/4000+). [[News](http://www.automation.sjtu.edu.cn/show.aspx?info_lb=610&flag=101&info_id=2890)], [[Defense](https://v.qq.com/x/page/p31356mbu5g.html)]
+   + GPA:3.51/4.0 on average
+   + Relevant Courses: Digital Image Processing, Computer Vision, Matrix Theory, Convex Optimization
++ B.S. Degree in Department of Instrument Science and Engineering, SJTU, Sept. 2015 - Jun. 2019.
+   + Rank: 4/56, GPA: 3.74/4.0 on average. [[Material](https://github.com/AllenChen1998/SJTU-Automation-Materials)]
+   + Relevant Courses: Machine Learning, Linear Algebra, Caculus, Statistics, C++ Programming and Data Structure
+   + Undergraduate Thesis: Performance Improvement Strategy for Mixed Precision Quantized Neural Network
+   + Outstanding Bachelor's Thesis: Top 15%. [[News](http://www.automation.sjtu.edu.cn/show.aspx?info_lb=610&flag=101&info_id=2890)], [[Defense](https://v.qq.com/x/page/p31356mbu5g.html)]
 
-Research
+Publication
 ------
-+ **Sizhe Chen**, Zhengbao He, Chengjin Sun, Jie Yang, Xiaolin Huang\*\*. Universal Adversarial Attack on Attention and the Resulting Dataset DamageNet. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2020. [[News](https://news.sjtu.edu.cn/jdzh/20201102/133855.html)], [[PDF](https://ieeexplore.ieee.org/document/9238430)]
-+ **Sizhe Chen**, Qinghua Tao, Zhehao Huang, Xiaolin Huang\*\*. Exploiting Every Query for Efficient Attack. Submitted to Annual Conference on Neural Information Processing Systems (NeurIPS), 2021.
-+ **Sizhe Chen**, Qinghua Tao, Zhixing Ye, Xiaolin Huang\*\*. Going Far Boosts Attack Transferability, but Do Not Do It. Submitted to International Conference on Uncertainty in Artificial Intelligence (UAI), 2021. [[PDF](https://arxiv.org/abs/2102.10343)]
-+ **Sizhe Chen**, Fan He, Xiaolin Huang\*\*, Kun Zhang. Relevance Attack on Detectors. Submitted to Pattern Recognition (PR), 2021. [[PDF](https://arxiv.org/abs/2008.06822)]
-+ Chengjin Sun, **Sizhe Chen**, Jia Cai, Xiaolin Huang\*\*. Type I attack for generative models. International Conference on Image Processing (ICIP), 2020. [[PDF](https://arxiv.org/abs/2003.01872)]
-+ Fan He, **Sizhe Chen**, Shuaiyi Li, Lu Zhou, Haiqin Zhang, Haixia Peng, Xiaolin Huang\*\*. Colonoscopi Image Synthesis for Polyp Detector Enhancement Via GAN and Adversarial Attack. International Symposium on Biomedical Imaging (ISBI), 2021. 
-
-\* indicates equal contribution. \*\* indicates the corresponding author. 
++ **Qin Luo**, Kun Fang, Jie Yang, Xiaolin Huang\*\*. Towards Unbiased Random Features with Lower Variance For Stationary Indefinite Kernels. International Joint Conference on Neural Networks (IJCNN), 2021. [[PDF](https://arxiv.org/abs/2104.06204)]
++ Tianshu Chu, **Qin Luo**, Jie Yang, Xiaolin Huang\*\*, Mixed-precision Quantized Neural Networks with Progressively Decreasing Bitwidth. Pattern Recognition (PR), 2021, 111: 107647. [[LINK](https://www.sciencedirect.com/science/article/pii/S0031320320304507)]
+\*\* indicates the corresponding author. 
 
 Work
 ------
