@@ -29,7 +29,12 @@ Publication
 ------
 + **Qin Luo**, Kun Fang, Jie Yang, Xiaolin Huang\*\*. Towards Unbiased Random Features with Lower Variance For Stationary Indefinite Kernels. International Joint Conference on Neural Networks (IJCNN), 2021. [[PDF](https://arxiv.org/abs/2104.06204)]
 + Tianshu Chu, **Qin Luo**, Jie Yang, Xiaolin Huang\*\*, Mixed-precision Quantized Neural Networks with Progressively Decreasing Bitwidth. Pattern Recognition (PR), 2021, 111: 107647. [[LINK](https://www.sciencedirect.com/science/article/pii/S0031320320304507)]
-\*\* indicates the corresponding author. 
+
+\*\* indicates the corresponding author.
+
+Research Project
+-----
+
 
 Work
 ------
