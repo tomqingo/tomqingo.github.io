@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
 url                      : https://allenchen1998.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/tomqingo.github.io" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/sizhe.chen.homepage" # the subpath of your site, e.g. "/blog"
 repository               : "allenchen1998/sizhe.chen.homepage"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Qin Luo"
+  name             : "Sizhe Chen"
   avatar           : "profile.jpg"
   bio              : "M.S. Student, SJTU"
   location         : "Shanghai, China"
@@ -95,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "tomqingo"
+  github           : "allenchen1998"
   google_plus      :
   keybase          :
   instagram        :
@@ -306,5 +306,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-theme: jekyll-theme-minimal
