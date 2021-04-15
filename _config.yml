@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Qin Luo"
-  avatar           : "qinluoluo.jpg"
+  avatar           : "profile.jpg"
   bio              : "M.S. Student, SJTU"
   location         : "Shanghai, China"
   employer         :
-  googlescholar    : "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    :  # "https://www.researchgate.net/profile/yourprofile"
   email            : "tomqin@sjtu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
