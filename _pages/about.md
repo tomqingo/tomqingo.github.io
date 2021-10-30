@@ -20,13 +20,13 @@ Education
    + GPA:3.51/4.0 on average
    + Relevant Courses: Digital Image Processing, Computer Vision, Matrix Theory, Convex Optimization
 + B.S. Degree in Department of Instrument Science and Engineering, SJTU, Sept. 2015 - Jun. 2019.
-   + Rank: 4/56, GPA: 3.74/4.0 on average.
-   + Relevant Courses: Machine Learning, Linear Algebra, Caculus, Statistics, C++ Programming and Data Structure
+   + Rank: 3/55, GPA: 3.80/4.3 on average.
+   + Relevant Courses: Machine Learning, Linear Algebra, Caculus, Statistics, C++ Programming and Data Structure, Digital and Analog Circuit
    + Undergraduate Thesis: Performance Improvement Strategy for Mixed Precision Quantized Neural Network [[DownLoad](https://github.com/tomqingo/tomqingo.github.io/blob/master/files/Undergraduate%20thesis.pdf)]
 
 Publication
 ------
-+ **Qin Luo**, Kun Fang, Jie Yang, Xiaolin Huang\*\*. Towards Unbiased Random Features with Lower Variance For Stationary Indefinite Kernels. International Joint Conference on Neural Networks (IJCNN), 2021. [[LINK](https://arxiv.org/abs/2104.06204)]
++ **Qin Luo**, Kun Fang, Jie Yang, Xiaolin Huang\*\*. Towards Unbiased Random Features with Lower Variance For Stationary Indefinite Kernels. International Joint Conference on Neural Networks (IJCNN), 2021. [[LINK](https://ieeexplore.ieee.org/document/9533863)]
 + Tianshu Chu, **Qin Luo**, Jie Yang, Xiaolin Huang\*\*, Mixed-precision Quantized Neural Networks with Progressively Decreasing Bitwidth. Pattern Recognition (PR), 2021, 111: 107647. [[LINK](https://www.sciencedirect.com/science/article/pii/S0031320320304507)]
 
 \*\* indicates the corresponding author.
@@ -69,6 +69,6 @@ Award
 
 Service
 ------
-+ **Reviewer** of Expert Systems With Applications, 2021.
++ **Reviewer** of Expert Systems With Applications, IEEE Transactions on Neural Networks and Learning Systems (TNNLS) 2021.
 + Volunteer of Shanghai Jiao Tong University 120 Anniversary, 2016.
 + Volunteer of Shanghai International Marathon, 2018.
