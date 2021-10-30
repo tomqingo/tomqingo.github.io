@@ -11,7 +11,7 @@ redirect_from:
   
 Biography
 ------
-I'm a Master student at the Institute of Image Processing and Pattern Recognition, Department of Automation, Shanghai Jiao Tong University (SJTU), China. I received my B.S. degree in Instrument Science and Engineering, SJTU in 2019. My research interests include kernel methods, neural network compression and computer vision. I am conducting the research on the random Fourier feature approximation for generalized kernels and its application.
+I'm a Master student at the Institute of Image Processing and Pattern Recognition, Department of Automation, Shanghai Jiao Tong University (SJTU), China. I received my B.S. degree in Instrument Science and Engineering, SJTU in 2019. My research interests include kernel methods, neural network compression and computer vision. I am conducting the research on the random Fourier feature approximation for generalized kernels and its application. [[CV](https://github.com/tomqingo/tomqingo.github.io/blob/master/files/CV%20-%20Qin%20Luo.pdf)]
 
 Education
 ------
