@@ -11,13 +11,18 @@ redirect_from:
   
 Biography
 ------
-I'm a Master student at the Institute of Image Processing and Pattern Recognition, Department of Automation, Shanghai Jiao Tong University (SJTU), China. I received my B.S. degree in Instrument Science and Engineering, SJTU in 2019. My research interests include kernel methods, neural network compression and computer vision. I am conducting the research on the random Fourier feature approximation for generalized kernels and its application. [[CV](https://github.com/tomqingo/tomqingo.github.io/blob/master/files/CV%20-%20Qin%20Luo.pdf)]
+I am currently a Ph.D. student at the Department of Computer Science and Engineering, The Chinese University of Hong Kong (CUHK), under the supervision of Prof. Martin DF Wong and Evangeline Young from Fall 2022. I received my master degree in automation in 2022 and bachelor degree in Instrument Science and Engineering in 2019, both at Shanghai Jiao Tong University (SJTU). My research interests include machine learning, optimization and their application in VLSI Physical Design. [[CV](https://github.com/tomqingo/tomqingo.github.io/blob/master/files/CV%20-%20Qin%20Luo.pdf)]
 
 Education
 ------
-+ M.S. Student in Department of Automation, SJTU, Sept. 2019 - Present.
++ Ph.D. Student in Department of Computer Science and Engineering, CUHK, Aug. 2022 - present
+   + Supervisor: [Martin DF Wong](https://ece.illinois.edu/about/directory/faculty/mdfwong) and [Evangeline FY Young](http://www.cse.cuhk.edu.hk/~fyyoung/)
+   + Research Direction: machine learning, optimization and their application in VLSI Physical Design
++ M.S. Student in Department of Automation, SJTU, Sept. 2019 - Mar. 2022
    + Supervisor: [Xiaolin Huang](https://automation.sjtu.edu.cn/xiaolin)
    + GPA:3.51/4.0 on average
+   + Research Direction: Kernel Methods(Random Features), Neural Network Compression(Quantization), Machine Learning
+   + Master Thesis: Generalized Construction and Application of Low Dimensional Random Feature Approximation of Kernel Function
    + Relevant Courses: Digital Image Processing, Computer Vision, Matrix Theory, Convex Optimization
 + B.S. Degree in Department of Instrument Science and Engineering, SJTU, Sept. 2015 - Jun. 2019.
    + Rank: 3/55, GPA: 3.80/4.3 on average.
@@ -37,6 +42,7 @@ Research Project
   + Extended random Fourier features to non positive definite kernels or non stationary kernels.
   + Utilized orthogonality to generalized random Fourier features and theoretically examined the unbiasedness as well as deduced the reduced variance.
   + Conducted experimental evaluation on the approximation error as well as the performance in SVM and SVR tasks.
+  + Extensive Research: construction method under memory constrained condition and its application in neural network training under few-shot scenario.
   + Achievement: a paper (IJCNN)
 + Mixed precision neural network quantization, Nov. 2018 - Feb. 2020
   + Visualized the separation ability of the feature maps from different classes and utilized the phenomenon to determine the bits of different class.
@@ -62,7 +68,7 @@ Work Experience
 
 Award
 ------
-+ Outstanding Graduate in Shanghai Jiao Tong University, 2019.
++ Outstanding Graduate in Shanghai Jiao Tong University, 2019 & 2022.
 + Excellent student scholarship in Shanghai Jiao Tong Univiersity, 2016-2019.
 + Third prize in National Post-graduate Mathematical Contest in Modeling, 2020.
 + Endress+Hausser Scholarship, 2017.
