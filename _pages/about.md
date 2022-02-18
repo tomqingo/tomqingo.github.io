@@ -17,12 +17,12 @@ Education
 ------
 + Ph.D. Student in Department of Computer Science and Engineering, CUHK, Aug. 2022 - present
    + Supervisor: [Martin DF Wong](https://ece.illinois.edu/about/directory/faculty/mdfwong) and [Evangeline FY Young](http://www.cse.cuhk.edu.hk/~fyyoung/)
-   + Research Direction: machine learning, optimization and their application in VLSI Physical Design
+   + Research Direction: Machine learning, Optimization and Their application in VLSI Physical Design
 + M.S. Student in Department of Automation, SJTU, Sept. 2019 - Mar. 2022
    + Supervisor: [Xiaolin Huang](https://automation.sjtu.edu.cn/xiaolin)
    + GPA:3.51/4.0 on average
    + Research Direction: Kernel Methods(Random Features), Neural Network Compression(Quantization), Machine Learning
-   + Master Thesis: Generalized Construction and Application of Low Dimensional Random Feature Approximation of Kernel Function[[paper](https://github.com/tomqingo/tomqingo.github.io/blob/master/files/Master%20Thesis.pdf)][[slides](https://github.com/tomqingo/tomqingo.github.io/blob/master/files/master%20defense.pdf)]
+   + Master Thesis: Generalized Construction and Application of Low Dimensional Random Feature Approximation of Kernel Function [[paper](https://github.com/tomqingo/tomqingo.github.io/blob/master/files/Master%20Thesis.pdf)][[slides](https://github.com/tomqingo/tomqingo.github.io/blob/master/files/master%20defense.pdf)]
    + Relevant Courses: Digital Image Processing, Computer Vision, Matrix Theory, Convex Optimization
 + B.S. Degree in Department of Instrument Science and Engineering, SJTU, Sept. 2015 - Jun. 2019.
    + Rank: 3/55, GPA: 3.80/4.3 on average.
