@@ -11,7 +11,7 @@ redirect_from:
   
 Biography
 ------
-I am currently a Ph.D. student at the Department of Computer Science and Engineering, The Chinese University of Hong Kong (CUHK), under the supervision of Prof. Martin DF Wong and Evangeline Young from Fall 2022. I received my master degree in automation in 2022 and bachelor degree in Instrument Science and Engineering in 2019, both at Shanghai Jiao Tong University (SJTU). My research interests include machine learning, optimization and their application in VLSI Physical Design. [[CV](https://github.com/tomqingo/tomqingo.github.io/blob/master/files/CV%20-%20Qin%20Luo.pdf)]
+I am currently a Ph.D. student at the Department of Computer Science and Engineering, The Chinese University of Hong Kong (CUHK), under the supervision of Prof. Martin DF Wong and Evangeline Young from Fall 2022. I received my master degree in automation in 2022 and bachelor degree in Instrument Science and Engineering in 2019, both at Shanghai Jiao Tong University (SJTU). My research interests include machine learning, optimization and their application in VLSI Physical Design. [[CV](https://github.com/tomqingo/tomqingo.github.io/blob/master/files/CV%2Btranscript%20-%20Qin%20Luo.pdf)]
 
 Education
 ------
@@ -38,7 +38,7 @@ Publication
 
 Research Project
 -----
-+ Generalized random feature approximation for kernel and its application, Mar. 2020 - D
++ Generalized random feature approximation for kernel and its application, Mar. 2020 - Dec. 2021
   + Extended random Fourier features to non positive definite kernels or non stationary kernels.
   + Utilized orthogonality to generalized random Fourier features and theoretically examined the unbiasedness as well as deduced the reduced variance.
   + Conducted experimental evaluation on the approximation error as well as the performance in SVM and SVR tasks.
