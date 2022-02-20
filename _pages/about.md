@@ -38,7 +38,7 @@ Publication
 
 Research Project
 -----
-+ Generalized random feature approximation for kernel and its application, Mar. 2020 - present
++ Generalized random feature approximation for kernel and its application, Mar. 2020 - D
   + Extended random Fourier features to non positive definite kernels or non stationary kernels.
   + Utilized orthogonality to generalized random Fourier features and theoretically examined the unbiasedness as well as deduced the reduced variance.
   + Conducted experimental evaluation on the approximation error as well as the performance in SVM and SVR tasks.
