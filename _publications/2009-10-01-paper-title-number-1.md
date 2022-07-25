@@ -1,15 +1,16 @@
 ---
-title: "Paper Title Number 1"
+title: "Towards Unbiased Random Features with Lower Variance For Stationary Indefinite Kernels."
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/paper_random_features
+excerpt: '-'
+date: 2021-04-10
+venue: 'International Joint Conference on Neural Networks (IJCNN)'
+paperurl: 'https://ieeexplore.ieee.org/document/9533863'
+citation: 'Qin Luo, Kun Fang, Jie Yang, Xiaolin Huang**. Towards Unbiased Random Features with Lower Variance For Stationary Indefinite Kernels. International Joint Conference on Neural Networks (IJCNN), 2021.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://ieeexplore.ieee.org/document/9533863)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Qin Luo, Kun Fang, Jie Yang, Xiaolin Huang**. Towards Unbiased Random Features with Lower Variance For Stationary Indefinite Kernels. International Joint Conference on Neural Networks (IJCNN), 2021.
+
+Random Fourier Features (RFF) demonstrate well-appreciated performance in kernel approximation for large-scale situations but restrict kernels to be stationary and positive definite. And for non-stationary kernels, the corresponding RFF could be converted to that for stationary indefinite kernels when the inputs are restricted to the unit sphere. Numerous methods provide accessible ways to approximate stationary but indefinite kernels. However, they are either biased or possess large variance. In this article, we propose the generalized orthogonal random features, an unbiased estimation with lower variance. Experimental results on various datasets and kernels verify that our algorithm achieves lower variance and approximation error compared with the existing kernel approximation methods. With better approximation to the originally selected kernels, improved classification accuracy and regression ability is obtained with our approximation algorithm in the framework of support vector machine and regression.
