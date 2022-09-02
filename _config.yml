@@ -83,10 +83,10 @@ author:
   name             : "Qin Luo"
   avatar           : "profile.jpg"
   bio              : "Ph.D. Student, CUHK"
-  location         : "Shanghai, China"
+  location         : "Hong Kong, China"
   employer         :
-  googlescholar    :
-  email            : "tomqin@sjtu.edu.cn"
+  googlescholar    : "https://scholar.google.com.hk/citations?hl=zh-CN&user=MKdAgVEAAAAJ"
+  email            : "qluo22@cse.cuhk.edu.hk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -101,7 +101,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "www.linkedin.com/in/tomqingo"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -231,7 +231,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
       comment: true
   # _talks
   - scope:
@@ -240,7 +240,7 @@ defaults:
     values:
       layout: talk
       author_profile: true
-      share: true
+      share: false
 
 # Sass/SCSS
 sass:
