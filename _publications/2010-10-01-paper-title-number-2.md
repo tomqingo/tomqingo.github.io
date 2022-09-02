@@ -1,12 +1,10 @@
 ---
 title: "Mixed-precision Quantized Neural Networks with Progressively Decreasing Bitwidth."
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/quantization
 date: 2021-03-10
 venue: 'Pattern Recognition'
 ---
-
-[Download paper here](https://www.sciencedirect.com/science/article/pii/S0031320320304507)
 
 Recommended citation: Tianshu Chu, Qin Luo, Jie Yang, Xiaolin Huang**, Mixed-precision Quantized Neural Networks with Progressively Decreasing Bitwidth. Pattern Recognition (PR), 2021, 111: 107647. ([Download paper here](https://www.sciencedirect.com/science/article/pii/S0031320320304507)) 
 
