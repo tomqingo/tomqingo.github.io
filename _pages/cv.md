@@ -18,16 +18,16 @@ Education
    + Supervisor: [Xiaolin Huang](https://automation.sjtu.edu.cn/xiaolin)
    + GPA:3.51/4.0 on average
    + Research Direction: Kernel Methods (Random Features), Neural Network Compression (Quantization), Machine Learning
-   + Master Thesis: Generalized Construction and Application of Low Dimensional Random Feature Approximation of Kernel Function [[paper](https://github.com/tomqingo/tomqingo.github.io/blob/master/files/Master%20Thesis.pdf)][[slides](https://github.com/tomqingo/tomqingo.github.io/blob/master/files/master%20defense.pdf)]
+   + Master Thesis: Generalized Construction and Application of Low Dimensional Random Feature Approximation of Kernel Function [[paper](https://drive.google.com/drive/folders/1QTGXpNzFY27xCHbLJYJngYoPA5304Zrz)][[slides](https://drive.google.com/drive/folders/1QTGXpNzFY27xCHbLJYJngYoPA5304Zrz)]
    + Relevant Courses: Digital Image Processing, Computer Vision, Matrix Theory, Convex Optimization
 + B.S. Degree in Department of Instrument Science and Engineering, SJTU, Sept. 2015 - Jun. 2019.
    + Rank: 3/55, GPA: 3.80/4.3 on average.
    + Relevant Courses: Machine Learning, Linear Algebra, Caculus, Statistics, C++ Programming and Data Structure, Digital and Analog Circuit
-   + Undergraduate Thesis: Performance Improvement Strategy for Mixed Precision Quantized Neural Network [[paper](https://github.com/tomqingo/tomqingo.github.io/blob/master/files/Undergraduate%20thesis.pdf)]
+   + Undergraduate Thesis: Performance Improvement Strategy for Mixed Precision Quantized Neural Network [[paper](https://drive.google.com/drive/folders/1QTGXpNzFY27xCHbLJYJngYoPA5304Zrz)]
 
 Publication
 ------
-+ **Qin Luo**, Kun Fang, Jie Yang, Xiaolin Huang\*\*. Towards Unbiased Random Features with Lower Variance For Stationary Indefinite Kernels. International Joint Conference on Neural Networks (IJCNN), 2021. [[paper](https://ieeexplore.ieee.org/document/9533863)][[[slides](https://github.com/tomqingo/tomqingo.github.io/blob/master/files/rff_demostration.pdf)]
++ **Qin Luo**, Kun Fang, Jie Yang, Xiaolin Huang\*\*. Towards Unbiased Random Features with Lower Variance For Stationary Indefinite Kernels. International Joint Conference on Neural Networks (IJCNN), 2021. [[paper](https://ieeexplore.ieee.org/document/9533863)][[[slides](https://drive.google.com/drive/folders/1QTGXpNzFY27xCHbLJYJngYoPA5304Zrz)]
 + Tianshu Chu, **Qin Luo**, Jie Yang, Xiaolin Huang\*\*, Mixed-precision Quantized Neural Networks with Progressively Decreasing Bitwidth. Pattern Recognition (PR), 2021, 111: 107647. [[paper](https://www.sciencedirect.com/science/article/pii/S0031320320304507)]
 
 \*\* indicates the corresponding author.
