@@ -3,7 +3,7 @@ title: "Towards Unbiased Random Features with Lower Variance For Stationary Inde
 collection: publications
 permalink: /publication/paper_random_features
 date: 2021-04-10
-venue: 'International Joint Conference on Neural Networks (IJCNN) [Download](https://ieeexplore.ieee.org/document/9533863)'
+venue: 'International Joint Conference on Neural Networks (IJCNN)'[Download paper here](https://ieeexplore.ieee.org/document/9533863)
 ---
 
 
