@@ -34,6 +34,7 @@ Publication
 
 Research Project
 -----
++ Circuit Partition for Multi-FPGA Prototyping, Aug. 2022 - Present
 + Generalized random feature approximation for kernel and its application, Mar. 2020 - Dec. 2021
   + Extended random Fourier features to non positive definite kernels or non stationary kernels.
   + Utilized orthogonality to generalized random Fourier features and theoretically examined the unbiasedness as well as deduced the reduced variance.
