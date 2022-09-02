@@ -11,4 +11,4 @@ redirect_from:
   
 Biography
 ------
-I am currently a Ph.D. student at the Department of Computer Science and Engineering, The Chinese University of Hong Kong (CUHK), under the supervision of Prof. Martin DF Wong and Evangeline Young from Fall 2022. I received my master degree in automation in 2022 and bachelor degree in Instrument Science and Engineering in 2019, both at Shanghai Jiao Tong University (SJTU). My research interests include machine learning, optimization and their application in VLSI Physical Design. [[CV](https://drive.google.com/drive/folders/1QTGXpNzFY27xCHbLJYJngYoPA5304Zrz)]
+I am currently a Ph.D. student at the Department of Computer Science and Engineering, The Chinese University of Hong Kong (CUHK), under the supervision of Prof. Martin DF Wong and Evangeline Young from Fall 2022. I received my master degree in automation in 2022 and bachelor degree in Instrument Science and Engineering in 2019, both at Shanghai Jiao Tong University (SJTU). My research interests include machine learning, optimization and their application in VLSI Physical Design. [[CV](https://drive.google.com/file/d/1ghOPq2SI5f4fUQDhywK_EeW-CqJB5l24/view?usp=sharing)]
