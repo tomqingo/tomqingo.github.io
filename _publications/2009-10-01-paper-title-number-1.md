@@ -4,7 +4,6 @@ collection: publications
 permalink: /publication/paper_random_features
 date: 2021-04-10
 venue: 'International Joint Conference on Neural Networks (IJCNN)'
-citation: 'Qin Luo, Kun Fang, Jie Yang, Xiaolin Huang**. Towards Unbiased Random Features with Lower Variance For Stationary Indefinite Kernels. International Joint Conference on Neural Networks (IJCNN), 2021.'
 ---
 
 [Download paper here](https://ieeexplore.ieee.org/document/9533863)
