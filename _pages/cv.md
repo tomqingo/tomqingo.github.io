@@ -60,6 +60,7 @@ Work Experience
 
 Award
 ------
++ Third Prize, Intergrated Circuit EDA Elite Challenge, 2022 [[Certificate](https://drive.google.com/file/d/1ODlfR_K2b-DMyfWk4ZeYKI8Ps-AonyGf/view?usp=sharing)]
 + Outstanding Graduate in Shanghai Jiao Tong University, 2019 & 2022.
 + Excellent student scholarship in Shanghai Jiao Tong Univiersity, 2016-2019.
 + Endress+Hausser Scholarship, 2017.
