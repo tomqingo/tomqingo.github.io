@@ -13,7 +13,7 @@ Education
 ------
 + Ph.D. Student in Department of Computer Science and Engineering, CUHK, Aug. 2022 - July 2026
    + Supervisor: [Evangeline FY Young](http://www.cse.cuhk.edu.hk/~fyyoung/) and [Martin DF Wong](https://ece.illinois.edu/about/directory/faculty/mdfwong)
-   + Research Direction: Optimization in the flow of FPGA prototyping (Multi-FPGA partitioning, FPGA placement and routing), Machine Learning in EDA
+   + Research Direction: Optimization in the flow of FPGA prototyping (Multi-FPGA partitioning, FPGA placement and routing), Machine Learning in Physical Design
 + M.S. Student in Department of Automation, SJTU, Sept. 2019 - Mar. 2022
    + Supervisor: [Xiaolin Huang](https://automation.sjtu.edu.cn/xiaolin)
    + GPA:3.51/4.0 on average
