@@ -12,8 +12,8 @@ redirect_from:
 Education
 ------
 + Ph.D. Student in Department of Computer Science and Engineering, CUHK, Aug. 2022 - July 2026
-   + Supervisor: [Martin DF Wong](https://ece.illinois.edu/about/directory/faculty/mdfwong) and [Evangeline FY Young](http://www.cse.cuhk.edu.hk/~fyyoung/)
-   + Research Direction: Machine learning, Optimization and Their application in VLSI Physical Design
+   + Supervisor: [Evangeline FY Young](http://www.cse.cuhk.edu.hk/~fyyoung/) and [Martin DF Wong](https://ece.illinois.edu/about/directory/faculty/mdfwong)
+   + Research Direction: Optimization in the flow of FPGA prototyping (Multi-FPGA partitioning, FPGA placement and routing), Machine Learning in EDA
 + M.S. Student in Department of Automation, SJTU, Sept. 2019 - Mar. 2022
    + Supervisor: [Xiaolin Huang](https://automation.sjtu.edu.cn/xiaolin)
    + GPA:3.51/4.0 on average
@@ -29,12 +29,19 @@ Publication
 ------
 + **Qin Luo**, Kun Fang, Jie Yang, Xiaolin Huang\*\*. Towards Unbiased Random Features with Lower Variance For Stationary Indefinite Kernels. International Joint Conference on Neural Networks (IJCNN), 2021. [[paper](https://ieeexplore.ieee.org/document/9533863)][[[slides](https://drive.google.com/file/d/1tkrcO1uE_ONpqyFeJon7XAjj5pKHPaRS/view?usp=sharing)]
 + Tianshu Chu, **Qin Luo**, Jie Yang, Xiaolin Huang\*\*, Mixed-precision Quantized Neural Networks with Progressively Decreasing Bitwidth. Pattern Recognition (PR), 2021, 111: 107647. [[paper](https://www.sciencedirect.com/science/article/pii/S0031320320304507)]
+(Work hard and hope for good news!!)
 
 \*\* indicates the corresponding author.
 
 Research Project
 -----
-+ Circuit Partition for Multi-FPGA Prototyping, Aug. 2022 - Present
++ Circuit Partition for Multi-FPGA Prototyping (Cooperation with S2C Company), Aug. 2022 - Present
+  + Timing-driven partitioning, Jan. 2023 - May. 2023
+  + Dynamic networking for Multi-FPGA system, Sep. 2022 - Dec. 2022
+  + RTL-Hierarchy Guided Multi-FPGA partitioning, Sept. 2023 - Present
++ FPGA Macro Placement, May. 2023 - Present
+  + Analytical Macro placement with machine learning enhancement
+  + Third Place in MLCAD2023 contest [[Contest Link](https://mlcad-workshop.org/1st-mlcad-contest/)]
 + Generalized random feature approximation for kernel and its application, Mar. 2020 - Dec. 2021
   + Extended random Fourier features to non positive definite kernels or non stationary kernels.
   + Utilized orthogonality to generalized random Fourier features and theoretically examined the unbiasedness as well as deduced the reduced variance.
@@ -60,6 +67,7 @@ Work Experience
 
 Award
 ------
++ Third Place, MLCAD 2023 contest, FPGA Macro Placement [[Certificate](https://drive.google.com/file/d/1YtHq5DIyyKvMLJfKpglOE_QUSykPcbb2/view?usp=drive_link)]
 + Third Prize, Simultaneously Dynamic Networking and Circuit Patitioning, Intergrated Circuit EDA Elite Challenge, 2022 [[Certificate](https://drive.google.com/file/d/1ODlfR_K2b-DMyfWk4ZeYKI8Ps-AonyGf/view?usp=sharing)]
 + Third Place, ISPD 2023 contest, Advanced Security Closure of Physical Layouts [[Certificate](https://drive.google.com/file/d/1MY3viRyMOynIdfvqlOzJRhXr-LlGw9BM/view?usp=sharing)]
 + Outstanding Graduate in Shanghai Jiao Tong University, 2019 & 2022.
