@@ -19,7 +19,6 @@ Education
    + GPA:3.51/4.0 on average
    + Research Direction: Kernel Methods (Random Features), Neural Network Compression (Quantization), Machine Learning
    + Master Thesis: Generalized Construction and Application of Low Dimensional Random Feature Approximation of Kernel Function [[paper](https://drive.google.com/file/d/1sKAXCBjSO1FvcKwXsUAQQulff_f1ZbZJ/view?usp=sharing)][[slides](https://drive.google.com/file/d/1W8qjp79tzFN9F7hexV89leeMYUZSgN9d/view?usp=sharing)]
-   + Relevant Courses: Digital Image Processing, Computer Vision, Matrix Theory, Convex Optimization
 + B.S. Degree in Department of Instrument Science and Engineering, SJTU, Sept. 2015 - Jun. 2019.
    + Rank: 3/55, GPA: 3.80/4.3 on average.
    + Relevant Courses: Machine Learning, Linear Algebra, Caculus, Statistics, C++ Programming and Data Structure, Digital and Analog Circuit
@@ -27,53 +26,46 @@ Education
 
 Publication
 ------
-+ **Qin Luo**, Kun Fang, Jie Yang, Xiaolin Huang\*\*. Towards Unbiased Random Features with Lower Variance For Stationary Indefinite Kernels. International Joint Conference on Neural Networks (IJCNN), 2021. [[paper](https://ieeexplore.ieee.org/document/9533863)][[[slides](https://drive.google.com/file/d/1tkrcO1uE_ONpqyFeJon7XAjj5pKHPaRS/view?usp=sharing)]
-+ Tianshu Chu, **Qin Luo**, Jie Yang, Xiaolin Huang\*\*, Mixed-precision Quantized Neural Networks with Progressively Decreasing Bitwidth. Pattern Recognition (PR), 2021, 111: 107647. [[paper](https://www.sciencedirect.com/science/article/pii/S0031320320304507)]
++ **Qin Luo**, Xinshi Zang, Qijing Wang, Fangzhou Wang, Evangeline F.Y. Young, Martin D.F. Wong. A Routability-Driven Ultrascale FPGA Macro Placer with Complex Design Constraints. 2024 IEEE 32nd Annual International Symposium on Field-Programmable Custom Computing Machines (FCCM). (Short Paper), 2024.
++ **Qin Luo**, Kun Fang, Jie Yang, Xiaolin Huang. Towards Unbiased Random Features with Lower Variance For Stationary Indefinite Kernels. International Joint Conference on Neural Networks (IJCNN), 2021. [[paper](https://ieeexplore.ieee.org/document/9533863)][[[slides](https://drive.google.com/file/d/1tkrcO1uE_ONpqyFeJon7XAjj5pKHPaRS/view?usp=sharing)]
++ Tianshu Chu, **Qin Luo**, Jie Yang, Xiaolin Huang. Mixed-precision Quantized Neural Networks with Progressively Decreasing Bitwidth. Pattern Recognition (PR), 2021, 111: 107647. [[paper](https://www.sciencedirect.com/science/article/pii/S0031320320304507)]
 (Work hard and hope for good news!!)
-
-\*\* indicates the corresponding author.
 
 Research Project
 -----
-+ Circuit Partition for Multi-FPGA Prototyping (Cooperation with S2C Company), Aug. 2022 - Present
-  + Timing-driven partitioning, Jan. 2023 - May. 2023
-  + Dynamic networking for Multi-FPGA system, Sep. 2022 - Dec. 2022
-  + RTL-Hierarchy Guided Multi-FPGA partitioning, Sept. 2023 - Present
 + FPGA Macro Placement, May. 2023 - Present
   + Analytical Macro placement with machine learning enhancement
-  + Third Place in MLCAD2023 contest [[Contest Link](https://mlcad-workshop.org/1st-mlcad-contest/)]
+  + Third Place in MLCAD2023 contest [[Contest Link](https://mlcad-workshop.org/1st-mlcad-contest/)] and a FCCM short paper.
++ Circuit Partition for Multi-FPGA Prototyping, Aug. 2022 - Feb. 2024
+  + Timing-driven partitioning, Jan. 2023 - May. 2023
+  + Dynamic networking for Multi-FPGA system, Sep. 2022 - Dec. 2022
+  + RTL-Hierarchy Guided Multi-FPGA partitioning, Sept. 2023 - Feb. 2024
 + Generalized random feature approximation for kernel and its application, Mar. 2020 - Dec. 2021
-  + Extended random Fourier features to non positive definite kernels or non stationary kernels.
-  + Utilized orthogonality to generalized random Fourier features and theoretically examined the unbiasedness as well as deduced the reduced variance.
-  + Conducted experimental evaluation on the approximation error as well as the performance in SVM and SVR tasks.
-  + Extensive Research: construction method under memory constrained condition and its application in neural network training under few-shot scenario.
+  + Extended random Fourier features to non-positive definite kernels or non-stationary kernels.
+  + Utilized orthogonality to generalized random Fourier features with smaller approximation error and better performance in SVM and SVR tasks.
+  + Extensive Research: construction method under memory-constrained conditions and its application in neural network training under a few-shot scenario.
   + Achievement: a paper (IJCNN)
 + Mixed precision neural network quantization, Nov. 2018 - Feb. 2020
-  + Visualized the separation ability of the feature maps from different classes and utilized the phenomenon to determine the bits of different class.
-  + Conducted classification and object detection experiment to evaluate our proposed mixed precision neural quantization method with evenly quantization methods.
-  + Research on regularization and knowledge distillation for quantized neural network.
+  + Visualized the separation ability of the feature maps from different classes and utilized the phenomenon to determine the bits of different classes.
+  + Conducted classification and object detection experiments to evaluate our proposed mixed precision neural quantization method with evenly quantization methods.
+  + Research on regularization and knowledge distillation for quantized neural networks.
   + Achievement: a paper (PR)
 
 Work Experience
 -----
 + Internship: Megvii Research Shanghai, Dec. 2020 - Jan. 2021
-   + Mentor: [Yichen Wei](https://yichenwei.github.io/), Yuke Zhu
-   + Development of action recognition model badcase analysis toolkit based on CAM.
-   + Research on non local method and its alternatives to optimize action recognition model.
-+ Lab Project: Computer vision tasks in Medtronic endoscopic system, Dec. 2019 - Mar. 2021
-   + Image enhancement (image denoising & image super-resolution) and monocular stereopsis reconstruction.
-   + Baseline model training (DnCNN\RDN\GRDN\SRGAN\MMD-GAN\Monodepth) and inference acceleration (Using Shufflenet and TensorRT).
-   + Invention disclosure: Unsupervised enhancing stereoscopic reconstruction method based on mono camera.
+   + Mentor: Yichen Wei, Yuke Zhu
+   + Development of action recognition badcase analysis toolkit based on CAM.
+   + Research the non-local method and its alternatives to optimize the action recognition model.
 
 Award
 ------
 + Third Place, MLCAD 2023 contest, FPGA Macro Placement [[Certificate](https://drive.google.com/file/d/1YtHq5DIyyKvMLJfKpglOE_QUSykPcbb2/view?usp=drive_link)]
-+ Third Prize, Simultaneously Dynamic Networking and Circuit Patitioning, Intergrated Circuit EDA Elite Challenge, 2022 [[Certificate](https://drive.google.com/file/d/1ODlfR_K2b-DMyfWk4ZeYKI8Ps-AonyGf/view?usp=sharing)]
++ Third Prize, Simultaneously Dynamic Networking and Circuit Partitioning, Integrated Circuit EDA Elite Challenge, 2022 [[Certificate](https://drive.google.com/file/d/1ODlfR_K2b-DMyfWk4ZeYKI8Ps-AonyGf/view?usp=sharing)]
 + Third Place, ISPD 2023 contest, Advanced Security Closure of Physical Layouts [[Certificate](https://drive.google.com/file/d/1MY3viRyMOynIdfvqlOzJRhXr-LlGw9BM/view?usp=sharing)]
++ Second Place, FPGA 2024 contest, Runtime-First FPGA Interchange Routing Contest
 + Outstanding Graduate in Shanghai Jiao Tong University, 2019 & 2022.
-+ Excellent student scholarship in Shanghai Jiao Tong Univiersity, 2016-2019.
-+ Endress+Hausser Scholarship, 2017.
 
 Service
 ------
-+ **Reviewer** of Expert Systems With Applications, IEEE Transactions on Neural Networks and Learning Systems (TNNLS) 2021.
++ **Reviewer** of Design Automation Conference (DAC), IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Expert Systems With Applications, IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
