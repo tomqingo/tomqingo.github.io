@@ -28,9 +28,10 @@ Publication
 ------
 + **Qin Luo**, Xinshi Zang, Qijing Wang, Fangzhou Wang, Evangeline F.Y. Young, Martin D.F. Wong. A Routability-Driven Ultrascale FPGA Macro Placer with Complex Design Constraints. 2024 IEEE 32nd Annual International Symposium on Field-Programmable Custom Computing Machines (FCCM), 2024.
 + **Qin Luo**, Kun Fang, Jie Yang, Xiaolin Huang. Towards Unbiased Random Features with Lower Variance For Stationary Indefinite Kernels. International Joint Conference on Neural Networks (IJCNN), 2021. [[paper](https://ieeexplore.ieee.org/document/9533863)][[[slides](https://drive.google.com/file/d/1tkrcO1uE_ONpqyFeJon7XAjj5pKHPaRS/view?usp=sharing)]
-+ Xinshi Zang, **Qin Luo**, Zhongwei Shao, Jifeng Zhang, Evangeline F.Y. Young, and Martin D.F. Wong. 2024. Dynamic Multi-FPGA Prototyping Platforms with Simultaneous Networking, Placement and Routing. Great Lakes
++ Xinshi Zang, **Qin Luo**, Zhongwei Shao, Jifeng Zhang, Evangeline F.Y. Young, and Martin D.F. Wong. Dynamic Multi-FPGA Prototyping Platforms with Simultaneous Networking, Placement and Routing. Great Lakes
 Symposium on VLSI 2024 (GLSVLSI ’24), June 12–14, 2024, Clearwater, FL, USA
 + Tianshu Chu, **Qin Luo**, Jie Yang, Xiaolin Huang. Mixed-precision Quantized Neural Networks with Progressively Decreasing Bitwidth. Pattern Recognition (PR), 2021, 111: 107647. [[paper](https://www.sciencedirect.com/science/article/pii/S0031320320304507)]
+
 (Work hard and hope for more good news!!)
 
 Research Project
@@ -67,6 +68,10 @@ Award
 + Third Place, ISPD 2023 contest, Advanced Security Closure of Physical Layouts [[Certificate](https://drive.google.com/file/d/1MY3viRyMOynIdfvqlOzJRhXr-LlGw9BM/view?usp=sharing)]
 + Second Place, FPGA 2024 contest, Runtime-First FPGA Interchange Routing Contest [[Certificate](https://drive.google.com/file/d/1rlaAizD_Ke_J8bghVT9WW3cEwZWT7Rtv/view?usp=sharing)]
 + Outstanding Graduate in Shanghai Jiao Tong University, 2019 & 2022.
+
+Service
+------
+Reviewer of Design Automation Conference (DAC), IEEE/ACM International Conference on Computer Aided Design (ICCAD), IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Expert Systems With Applications, IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 
 Service
 ------
