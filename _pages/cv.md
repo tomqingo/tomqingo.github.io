@@ -71,7 +71,7 @@ Award
 
 Service
 ------
-Reviewer of Design Automation Conference (DAC), IEEE/ACM International Conference on Computer Aided Design (ICCAD), IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Expert Systems With Applications, IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
++ Reviewer of Design Automation Conference (DAC), IEEE/ACM International Conference on Computer Aided Design (ICCAD), IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Expert Systems With Applications, IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 
 Service
 ------
