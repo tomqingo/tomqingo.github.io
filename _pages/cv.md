@@ -27,6 +27,7 @@ Education
 Publication
 ------
 + **Qin Luo**, Xinshi Zang, Qijing Wang, Fangzhou Wang, Evangeline F.Y. Young, Martin D.F. Wong. A Routability-Driven Ultrascale FPGA Macro Placer with Complex Design Constraints. 2024 IEEE 32nd Annual International Symposium on Field-Programmable Custom Computing Machines (FCCM), 2024. [[paper](https://ieeexplore.ieee.org/document/10653672)]
++ **Qin Luo**, Xinshi Zang, Evangeline F.Y. Young, Martin D.F. Wong. TRPlaceFPGA-MP: A Two-stage Reinforcement Learning Framework for Fast FPGA Macro Placer. The 35th International Conference on Field-Programmable Logic and Applications (FPL), 2025.
 + **Qin Luo**, Kun Fang, Jie Yang, Xiaolin Huang. Towards Unbiased Random Features with Lower Variance For Stationary Indefinite Kernels. International Joint Conference on Neural Networks (IJCNN), 2021. [[paper](https://ieeexplore.ieee.org/document/9533863)][[[slides](https://drive.google.com/file/d/1tkrcO1uE_ONpqyFeJon7XAjj5pKHPaRS/view?usp=sharing)]
 + Xinshi Zang, **Qin Luo**, Zhongwei Shao, Jifeng Zhang, Evangeline F.Y. Young, and Martin D.F. Wong. Dynamic Multi-FPGA Prototyping Platforms with Simultaneous Networking, Placement and Routing. Great Lakes
 Symposium on VLSI 2024 (GLSVLSI ’24), June 12–14, 2024, Clearwater, FL, USA. [[paper](https://dl.acm.org/doi/abs/10.1145/3649476.3658713)]
@@ -36,9 +37,11 @@ Symposium on VLSI 2024 (GLSVLSI ’24), June 12–14, 2024, Clearwater, FL, USA.
 
 Research Project
 -----
-+ FPGA Macro Placement, May. 2023 - Present
-  + Analytical Macro placement with machine learning enhancement
-  + Third Place in MLCAD2023 contest [[Contest Link](https://mlcad-workshop.org/1st-mlcad-contest/)] and a FCCM short paper.
++ Reinforcement learning-based 3D floorplanning, Nov. 2024 - now
++ FPGA Macro Placement, May. 2023 - June. 2024
+  + Analytical Macro placement with reinforcement learning enhancement
+  + Third Place in MLCAD2023 contest [[Contest Link](https://mlcad-workshop.org/1st-mlcad-contest/)]
+  + A FCCM short paper and a FPL full paper
 + Circuit Partition for Multi-FPGA Prototyping, Aug. 2022 - Feb. 2024
   + Timing-driven partitioning, Jan. 2023 - May. 2023
   + Dynamic networking for Multi-FPGA system, Sep. 2022 - Dec. 2022
