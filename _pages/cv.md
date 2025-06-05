@@ -32,6 +32,7 @@ Publication
 + Xinshi Zang, **Qin Luo**, Zhongwei Shao, Jifeng Zhang, Evangeline F.Y. Young, and Martin D.F. Wong. Dynamic Multi-FPGA Prototyping Platforms with Simultaneous Networking, Placement and Routing. Great Lakes
 Symposium on VLSI 2024 (GLSVLSI ’24), June 12–14, 2024, Clearwater, FL, USA. [[paper](https://dl.acm.org/doi/abs/10.1145/3649476.3658713)]
 + Tianshu Chu, **Qin Luo**, Jie Yang, Xiaolin Huang. Mixed-precision Quantized Neural Networks with Progressively Decreasing Bitwidth. Pattern Recognition (PR), 2021, 111: 107647. [[paper](https://www.sciencedirect.com/science/article/pii/S0031320320304507)]
++ Wing Ho LAU, Jinwei Liu, **Qin Luo**, Evangeline F.Y. Young. OASALT: On the Construction of Obstacle-Avoiding Steiner shAllow-Light Tree. International Symposium of EDA (ISEDA), 2025.
 
 (Work hard and hope for more good news!!)
 
