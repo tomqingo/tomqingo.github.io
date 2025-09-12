@@ -6,7 +6,7 @@ date: 2025-09-01
 venue: 'The 35th International Conference on Field-Programmable Logic and Applications (FPL).'
 ---
 
-Recommended citation: Qin Luo, Xinshi Zang, Evangeline F.Y. Young, Martin D.F. Wong. TRPlaceFPGA-MP: A Two-stage Reinforcement Learning Framework for Fast FPGA Macro Placer. The 35th International Conference on Field-Programmable Logic and Applications (FPL), 2025.
+Recommended citation: Qin Luo, Xinshi Zang, Evangeline F.Y. Young, Martin D.F. Wong. TRPlaceFPGA-MP: A Two-stage Reinforcement Learning Framework for Fast FPGA Macro Placer. The 35th International Conference on Field-Programmable Logic and Applications (FPL), 2025. https://github.com/tomqingo/tomqingo.github.io/blob/master/files/SE04-02_FPL_2025_paper.pdf
 
 Reinforcement learning (RL)-based macro placement has garnered significant interest in both the fields of artificial intelligence and electronic design automation (EDA), due to its excellent potential for achieving better performance, power
 and area optimization compared to analytical methods. However, existing techniques are restricted in the ASIC and ignore the
