@@ -13,7 +13,7 @@ Education
 ------
 + Ph.D. candidate in Department of Computer Science and Engineering, CUHK, Aug. 2022 - July 2026
    + Supervisor: [Evangeline FY Young](http://www.cse.cuhk.edu.hk/~fyyoung/) and [Martin DF Wong](https://ece.illinois.edu/about/directory/faculty/mdfwong)
-   + Research Direction: Optimization in the flow of FPGA prototyping (Multi-FPGA partitioning, FPGA placement and routing), Machine Learning in Physical Design
+   + Research Direction: Optimization in the flow of FPGA prototyping and 3D IC (Multi-FPGA partitioning, FPGA placement and routing, 3D IC floorplan), Machine Learning in Physical Design (RL-based floorplan & macro placement)
 + M.S. Student in Department of Automation, SJTU, Sept. 2019 - Mar. 2022
    + Supervisor: [Xiaolin Huang](https://automation.sjtu.edu.cn/xiaolin)
    + GPA:3.51/4.0 on average
@@ -26,26 +26,28 @@ Education
 
 Publication
 ------
-+ **Qin Luo**, Xinshi Zang, Qijing Wang, Fangzhou Wang, Evangeline F.Y. Young, Martin D.F. Wong. A Routability-Driven Ultrascale FPGA Macro Placer with Complex Design Constraints. 2024 IEEE 32nd Annual International Symposium on Field-Programmable Custom Computing Machines (FCCM), 2024. [[paper](https://ieeexplore.ieee.org/document/10653672)]
-+ **Qin Luo**, Xinshi Zang, Evangeline F.Y. Young, Martin D.F. Wong. TRPlaceFPGA-MP: A Two-stage Reinforcement Learning Framework for Fast FPGA Macro Placer. The 35th International Conference on Field-Programmable Logic and Applications (FPL), 2025.
++ **Qin Luo**, Xinshi Zang, Qijing Wang, Fangzhou Wang, Evangeline F.Y. Young, Martin D.F. Wong. A Routability-Driven Ultrascale FPGA Macro Placer with Complex Design Constraints. 2024 IEEE 32nd Annual International Symposium on Field-Programmable Custom Computing Machines (FCCM), 2024. [[paper](https://ieeexplore.ieee.org/document/10653672)][[slides](https://drive.google.com/file/d/16H2JcQj4pLGQcPsS3zaTzcIaDSaWPgvy/view?usp=sharing)]
++ **Qin Luo**, Xinshi Zang, Evangeline F.Y. Young, Martin D.F. Wong. TRPlaceFPGA-MP: A Two-stage Reinforcement Learning Framework for Fast FPGA Macro Placer. The 35th International Conference on Field-Programmable Logic and Applications (FPL), 2025. [[paper](https://github.com/tomqingo/tomqingo.github.io/blob/master/files/SE04-02_FPL_2025_paper.pdf)][[slides](https://drive.google.com/file/d/1e8z3POsceB0_TsuIpc0MLHwshY-aR9xK/view?usp=sharing)]
 + **Qin Luo**, Kun Fang, Jie Yang, Xiaolin Huang. Towards Unbiased Random Features with Lower Variance For Stationary Indefinite Kernels. International Joint Conference on Neural Networks (IJCNN), 2021. [[paper](https://ieeexplore.ieee.org/document/9533863)][[[slides](https://drive.google.com/file/d/1tkrcO1uE_ONpqyFeJon7XAjj5pKHPaRS/view?usp=sharing)]
 + Xinshi Zang, **Qin Luo**, Zhongwei Shao, Jifeng Zhang, Evangeline F.Y. Young, and Martin D.F. Wong. Dynamic Multi-FPGA Prototyping Platforms with Simultaneous Networking, Placement and Routing. Great Lakes
 Symposium on VLSI 2024 (GLSVLSI ’24), June 12–14, 2024, Clearwater, FL, USA. [[paper](https://dl.acm.org/doi/abs/10.1145/3649476.3658713)]
 + Tianshu Chu, **Qin Luo**, Jie Yang, Xiaolin Huang. Mixed-precision Quantized Neural Networks with Progressively Decreasing Bitwidth. Pattern Recognition (PR), 2021, 111: 107647. [[paper](https://www.sciencedirect.com/science/article/pii/S0031320320304507)]
-+ Wing Ho LAU, Jinwei Liu, **Qin Luo**, Evangeline F.Y. Young. OASALT: On the Construction of Obstacle-Avoiding Steiner shAllow-Light Tree. International Symposium of EDA (ISEDA), 2025.
++ Wing Ho LAU, Jinwei Liu, **Qin Luo**, Evangeline F.Y. Young. OASALT: On the Construction of Obstacle-Avoiding Steiner shAllow-Light Tree. International Symposium of EDA (ISEDA), 2025. [[paper](https://ieeexplore.ieee.org/abstract/document/11100533)]
 
 (Work hard and hope for more good news!!)
 
 Research Project
 -----
-+ Reinforcement learning-based 3D floorplanning, Nov. 2024 - now
++ Reinforcement learning-based 3D floorplanning, Nov. 2024 - Sep. 2025
+  + Optimize both the cross-die wirelength and the number of vias with the online RL methods for the die-to-die 3D integrated circuit
+  + Achieve the integration into OpenROAD flow and with the 3D placer
 + FPGA Macro Placement, May. 2023 - June. 2024
-  + Analytical Macro placement with reinforcement learning enhancement
+  + Concentrate on the placement stage of the macros (BRAM and DSP) under complex design constraints and with RL methods
   + Third Place in MLCAD2023 contest [[Contest Link](https://mlcad-workshop.org/1st-mlcad-contest/)]
   + A FCCM short paper and a FPL full paper
 + Circuit Partition for Multi-FPGA Prototyping, Aug. 2022 - Feb. 2024
   + Timing-driven partitioning, Jan. 2023 - May. 2023
-  + Dynamic networking for Multi-FPGA system, Sep. 2022 - Dec. 2022
+  + Simultaneous networking and partitioning for Multi-FPGA system, Sep. 2022 - Dec. 2022
   + RTL-Hierarchy Guided Multi-FPGA partitioning, Sept. 2023 - Feb. 2024
 + Generalized random feature approximation for kernel and its application, Mar. 2020 - Dec. 2021
   + Extended random Fourier features to non-positive definite kernels or non-stationary kernels.
@@ -75,4 +77,11 @@ Award
 
 Service
 ------
-+ **Reviewer** of Design Automation Conference (DAC), IEEE/ACM International Conference on Computer Aided Design (ICCAD), IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Expert Systems With Applications, IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+Serve as the **Reviewer** of 
++ Design Automation Conference (DAC)
++ IEEE/ACM International Conference on Computer Aided Design (ICCAD)
++ IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
++ ACM Transactions on Reconfigurable Technology and Systems(TRETS)
++ Integration
++ IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
++ Expert Systems With Applications
