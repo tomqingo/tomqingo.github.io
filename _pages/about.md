@@ -15,4 +15,4 @@ I am a Ph.D. candidate at the Department of Computer Science and Engineering, Th
 
 I am also enthusiastic in stock trading, and have achieved about 32.16% profit in the American stock market in the past year. Meanwhile, in the Chinese market, I have the 44% profit since 9/24/2024. Welcome to see my wechat blog: qingoshare.
 
-I am seeking for the job in the industry next year. Please welcome contact me.
+I am seeking for the job in the industry. Please welcome contact me.
