@@ -27,7 +27,8 @@ Education
 Publication
 ------
 + **Qin Luo**, Xinshi Zang, Qijing Wang, Fangzhou Wang, Evangeline F.Y. Young, Martin D.F. Wong. A Routability-Driven Ultrascale FPGA Macro Placer with Complex Design Constraints. 2024 IEEE 32nd Annual International Symposium on Field-Programmable Custom Computing Machines (FCCM), 2024. [[paper](https://ieeexplore.ieee.org/document/10653672)][[slides](https://drive.google.com/file/d/16H2JcQj4pLGQcPsS3zaTzcIaDSaWPgvy/view?usp=sharing)]
-+ **Qin Luo**, Xinshi Zang, Evangeline F.Y. Young, Martin D.F. Wong. TRPlaceFPGA-MP: A Two-stage Reinforcement Learning Framework for Fast FPGA Macro Placer. The 35th International Conference on Field-Programmable Logic and Applications (FPL), 2025. [[paper](https://github.com/tomqingo/tomqingo.github.io/blob/master/files/SE04-02_FPL_2025_paper.pdf)][[slides](https://drive.google.com/file/d/1e8z3POsceB0_TsuIpc0MLHwshY-aR9xK/view?usp=sharing)]
++ **Qin Luo**, Xinshi Zang, Evangeline F.Y. Young, Martin D.F. Wong. TRPlaceFPGA-MP: A Two-stage Reinforcement Learning Framework for Fast FPGA Macro Placer. The 35th International Conference on Field-Programmable Logic and Applications (FPL), 2025. [[paper](https://ieeexplore.ieee.org/document/11449063)][[slides](https://drive.google.com/file/d/1e8z3POsceB0_TsuIpc0MLHwshY-aR9xK/view?usp=sharing)]
++ **Qin Luo**, Hailiang Li, Evangeline F.Y. Young. Reinforcement Learning-based 3D Floorplanner with Die Swapping Mechanism. International Symposium of EDA (ISEDA), 2026.
 + **Qin Luo**, Kun Fang, Jie Yang, Xiaolin Huang. Towards Unbiased Random Features with Lower Variance For Stationary Indefinite Kernels. International Joint Conference on Neural Networks (IJCNN), 2021. [[paper](https://ieeexplore.ieee.org/document/9533863)][[[slides](https://drive.google.com/file/d/1tkrcO1uE_ONpqyFeJon7XAjj5pKHPaRS/view?usp=sharing)]
 + Xinshi Zang, **Qin Luo**, Zhongwei Shao, Jifeng Zhang, Evangeline F.Y. Young, and Martin D.F. Wong. Dynamic Multi-FPGA Prototyping Platforms with Simultaneous Networking, Placement and Routing. Great Lakes
 Symposium on VLSI 2024 (GLSVLSI ’24), June 12–14, 2024, Clearwater, FL, USA. [[paper](https://dl.acm.org/doi/abs/10.1145/3649476.3658713)]
@@ -38,9 +39,12 @@ Symposium on VLSI 2024 (GLSVLSI ’24), June 12–14, 2024, Clearwater, FL, USA.
 
 Research Project
 -----
++ 3D bus Planning with power and HBT optimization, Nov. 2025 - now
 + Reinforcement learning-based 3D floorplanning, Nov. 2024 - Sep. 2025
   + Optimize both the cross-die wirelength and the number of vias with the online RL methods for the die-to-die 3D integrated circuit
   + Achieve the integration into OpenROAD flow and with the 3D placer
+  + Implement the die swapping mechanism to make FlexPlanner able to adjust die assignment
+  + An ISEDA full paper
 + FPGA Macro Placement, May. 2023 - June. 2024
   + Concentrate on the placement stage of the macros (BRAM and DSP) under complex design constraints and with RL methods
   + Third Place in MLCAD2023 contest [[Contest Link](https://mlcad-workshop.org/1st-mlcad-contest/)]
@@ -80,6 +84,7 @@ Service
 Serve as the **Reviewer** of 
 + Design Automation Conference (DAC)
 + IEEE/ACM International Conference on Computer Aided Design (ICCAD)
++ International Conference on Field-Programmable Logic and Applications (FPL)
 + IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
 + ACM Transactions on Reconfigurable Technology and Systems(TRETS)
 + Integration
