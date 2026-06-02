@@ -28,7 +28,7 @@ Publication
 ------
 + **Qin Luo**, Xinshi Zang, Qijing Wang, Fangzhou Wang, Evangeline F.Y. Young, Martin D.F. Wong. A Routability-Driven Ultrascale FPGA Macro Placer with Complex Design Constraints. 2024 IEEE 32nd Annual International Symposium on Field-Programmable Custom Computing Machines (FCCM), 2024. [[paper](https://ieeexplore.ieee.org/document/10653672)][[slides](https://drive.google.com/file/d/16H2JcQj4pLGQcPsS3zaTzcIaDSaWPgvy/view?usp=sharing)]
 + **Qin Luo**, Xinshi Zang, Evangeline F.Y. Young, Martin D.F. Wong. TRPlaceFPGA-MP: A Two-stage Reinforcement Learning Framework for Fast FPGA Macro Placer. The 35th International Conference on Field-Programmable Logic and Applications (FPL), 2025. [[paper](https://ieeexplore.ieee.org/document/11449063)][[slides](https://drive.google.com/file/d/1e8z3POsceB0_TsuIpc0MLHwshY-aR9xK/view?usp=sharing)]
-+ **Qin Luo**, Hailiang Li, Evangeline F.Y. Young. Reinforcement Learning-based 3D Floorplanner with Die Swapping Mechanism. International Symposium of EDA (ISEDA), 2026.
++ **Qin Luo**, Hailiang Li, Evangeline F.Y. Young. Reinforcement Learning-based 3D Floorplanner with Die Swapping Mechanism. International Symposium of EDA (ISEDA), 2026. [[slides](https://drive.google.com/file/d/1hGlDXcfbGXnpBSJgQJ-r7SrGdSAqMCvs/view?usp=drive_link)]
 + **Qin Luo**, Kun Fang, Jie Yang, Xiaolin Huang. Towards Unbiased Random Features with Lower Variance For Stationary Indefinite Kernels. International Joint Conference on Neural Networks (IJCNN), 2021. [[paper](https://ieeexplore.ieee.org/document/9533863)][[[slides](https://drive.google.com/file/d/1tkrcO1uE_ONpqyFeJon7XAjj5pKHPaRS/view?usp=sharing)]
 + Xinshi Zang, **Qin Luo**, Zhongwei Shao, Jifeng Zhang, Evangeline F.Y. Young, and Martin D.F. Wong. Dynamic Multi-FPGA Prototyping Platforms with Simultaneous Networking, Placement and Routing. Great Lakes
 Symposium on VLSI 2024 (GLSVLSI ’24), June 12–14, 2024, Clearwater, FL, USA. [[paper](https://dl.acm.org/doi/abs/10.1145/3649476.3658713)]
@@ -70,6 +70,10 @@ Work Experience
    + Mentor: Yichen Wei, Yuke Zhu
    + Development of action recognition badcase analysis toolkit based on CAM.
    + Research the non-local method and its alternatives to optimize the action recognition model.
+ 
+Talk
+-----
+ACCESS Seminar: Floorplanning for Heterogeneous Integrated Circuits: from Practical Heuristics to Learning [[slides](https://drive.google.com/file/d/1pmCSLdJiihnG2Zer53dM9JkoHOhXNe1x/view?usp=sharing)]
 
 Award
 ------
