@@ -39,7 +39,7 @@ Symposium on VLSI 2024 (GLSVLSI ’24), June 12–14, 2024, Clearwater, FL, USA.
 
 Research Project
 -----
-+ 3D bus Planning with power and HBT optimization, Nov. 2025 - June. 2026
++ Bus Planning with power and HBT optimization on 3DIC, Nov. 2025 - June. 2026
   + Address the resource competition among buses, PDN and HBTs on 3DIC.
   + Propose two-stage framework: power and HBT-guided bus routing + routing-segment-length-sorting-based bus bit assignment
   + The proposed framework increases average bus width by 32% without increasing total wirelength, while significantly reducing worst-case IR-drop degradation, high IR-drop area, and additional CrossDieWL overhead.
