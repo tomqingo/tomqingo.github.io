@@ -1,7 +1,7 @@
 ---
 title: "A Routability-Driven Ultrascale FPGA Macro Placer with Complex Design Constraints."
 collection: publications
-permalink: /publication/macroplacetrad
+permalink: /publication/macroplace
 date: 2024-05-04
 venue: '2024 IEEE 32nd Annual International Symposium on Field-Programmable Custom Computing Machines (FCCM).'
 ---
