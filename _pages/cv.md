@@ -45,7 +45,7 @@ Research Project
   + The proposed framework increases average bus width by 32% without increasing total wirelength, while significantly reducing worst-case IR-drop degradation, high IR-drop area, and additional CrossDieWL overhead.
 + Reinforcement learning-based 3D floorplanning, Nov. 2024 - Sep. 2025
   + Optimize both the cross-die wirelength and the number of vias with the online RL methods for the die-to-die 3D integrated circuit
-  + Achieve the integration into OpenROAD flow and with the 3D placer
+  + Achieve the integration into OpenROAD flow and with the 3D placer [[Codes](https://github.com/tomqingo/OpenROAD-flow-scripts)]
   + Implement the die swapping mechanism to make FlexPlanner able to adjust die assignment
   + An ISEDA full paper
 + FPGA Macro Placement, May. 2023 - June. 2024
