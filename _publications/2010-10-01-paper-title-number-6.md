@@ -3,7 +3,7 @@ title: "Reinforcement Learning-based 3D Floorplanner with Die Swapping Mechanism
 collection: publications
 permalink: /publication/RL3D
 date: 2026-05-08
-venue: 'International Symposium of EDA (ISEDA)'
+venue: 'International Symposium of EDA(ISEDA)'
 ---
 
 Recommended citation: Qin Luo, Hailiang Li, Evangeline F.Y. Young. Reinforcement Learning-based 3D Floorplanner with Die Swapping Mechanism. International Symposium of EDA (ISEDA), 2026.  ([Download paper here](https://ieeexplore.ieee.org/document/11751446?denied=))
