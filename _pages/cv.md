@@ -11,15 +11,16 @@ redirect_from:
 
 Education
 ------
-+ Ph.D. candidate in Department of Computer Science and Engineering, CUHK, Aug. 2022 - July 2026
++ Ph.D. in Department of Computer Science and Engineering, CUHK, Aug. 2022 - Oct. 2026
    + Supervisor: [Evangeline FY Young](http://www.cse.cuhk.edu.hk/~fyyoung/) and [Martin DF Wong](https://ece.illinois.edu/about/directory/faculty/mdfwong)
    + Research Direction: Optimization in the flow of FPGA prototyping and 3D IC (Multi-FPGA partitioning, FPGA placement and routing, 3D IC floorplan), Machine Learning in Physical Design (RL-based floorplan & macro placement)
-+ M.S. Student in Department of Automation, SJTU, Sept. 2019 - Mar. 2022
+   + PhD Thesis: Heterogeneous-Resource-Aware Floorplanning in the More-than-Moore Era [[paper](https://drive.google.com/file/d/1v6gujiUXkX6MmUSR6hsvMcBoEZlYha6R/view?usp=sharing)][[slides](https://docs.google.com/presentation/d/1HeXDprMtR0HNTQzQXhaQAAG4MNb51ji2/edit?usp=sharing&ouid=101977933325519360663&rtpof=true&sd=true)][[photo](https://drive.google.com/file/d/1qkeAGyzFr-Bo_OCgKIP_Jqzs2wpXntMr/view?usp=sharing)]
++ M.S. in Department of Automation, SJTU, Sept. 2019 - Mar. 2022
    + Supervisor: [Xiaolin Huang](https://automation.sjtu.edu.cn/xiaolin)
    + GPA:3.51/4.0 on average
    + Research Direction: Kernel Methods (Random Features), Neural Network Compression (Quantization), Machine Learning
    + Master Thesis: Generalized Construction and Application of Low Dimensional Random Feature Approximation of Kernel Function [[paper](https://drive.google.com/file/d/1sKAXCBjSO1FvcKwXsUAQQulff_f1ZbZJ/view?usp=sharing)][[slides](https://drive.google.com/file/d/1W8qjp79tzFN9F7hexV89leeMYUZSgN9d/view?usp=sharing)]
-+ B.S. Degree in Department of Instrument Science and Engineering, SJTU, Sept. 2015 - Jun. 2019.
++ B.S. in Department of Instrument Science and Engineering, SJTU, Sept. 2015 - Jun. 2019.
    + Rank: 3/55, GPA: 3.80/4.3 on average.
    + Relevant Courses: Machine Learning, Linear Algebra, Caculus, Statistics, C++ Programming and Data Structure, Digital and Analog Circuit
    + Undergraduate Thesis: Performance Improvement Strategy for Mixed Precision Quantized Neural Network [[paper](https://drive.google.com/file/d/1Dl_F9pLoDUTiqUdED9yzPPgcNDKzPWNu/view?usp=sharing)]
@@ -28,7 +29,7 @@ Publication
 ------
 + **Qin Luo**, Xinshi Zang, Qijing Wang, Fangzhou Wang, Evangeline F.Y. Young, Martin D.F. Wong. A Routability-Driven Ultrascale FPGA Macro Placer with Complex Design Constraints. 2024 IEEE 32nd Annual International Symposium on Field-Programmable Custom Computing Machines (FCCM), 2024. [[paper](https://ieeexplore.ieee.org/document/10653672)][[slides](https://drive.google.com/file/d/16H2JcQj4pLGQcPsS3zaTzcIaDSaWPgvy/view?usp=sharing)][[codes](https://github.com/tomqingo/CUMPLE_MLCAD)]
 + **Qin Luo**, Xinshi Zang, Evangeline F.Y. Young, Martin D.F. Wong. TRPlaceFPGA-MP: A Two-stage Reinforcement Learning Framework for Fast FPGA Macro Placer. The 35th International Conference on Field-Programmable Logic and Applications (FPL), 2025. [[paper](https://ieeexplore.ieee.org/document/11449063)][[slides](https://drive.google.com/file/d/1e8z3POsceB0_TsuIpc0MLHwshY-aR9xK/view?usp=sharing)][[codes](https://github.com/tomqingo/TRPlaceFPGAMP)]
-+ **Qin Luo**, Hailiang Li, Evangeline F.Y. Young. Reinforcement Learning-based 3D Floorplanner with Die Swapping Mechanism. International Symposium of EDA (ISEDA), 2026. [[slides](https://drive.google.com/file/d/1hGlDXcfbGXnpBSJgQJ-r7SrGdSAqMCvs/view?usp=drive_link)][[codes](https://github.com/tomqingo/FlexPlanner_dieswap)]
++ **Qin Luo**, Hailiang Li, Evangeline F.Y. Young. Reinforcement Learning-based 3D Floorplanner with Die Swapping Mechanism. International Symposium of EDA (ISEDA), 2026. [[paper](https://ieeexplore.ieee.org/document/11751446?denied=)][[slides](https://drive.google.com/file/d/1hGlDXcfbGXnpBSJgQJ-r7SrGdSAqMCvs/view?usp=drive_link)][[codes](https://github.com/tomqingo/FlexPlanner_dieswap)]
 + **Qin Luo**, Kun Fang, Jie Yang, Xiaolin Huang. Towards Unbiased Random Features with Lower Variance For Stationary Indefinite Kernels. International Joint Conference on Neural Networks (IJCNN), 2021. [[paper](https://ieeexplore.ieee.org/document/9533863)][[[slides](https://drive.google.com/file/d/1tkrcO1uE_ONpqyFeJon7XAjj5pKHPaRS/view?usp=sharing)][[codes](https://github.com/tomqingo/GORF)]
 + Xinshi Zang, **Qin Luo**, Zhongwei Shao, Jifeng Zhang, Evangeline F.Y. Young, and Martin D.F. Wong. Dynamic Multi-FPGA Prototyping Platforms with Simultaneous Networking, Placement and Routing. Great Lakes
 Symposium on VLSI 2024 (GLSVLSI ’24), June 12–14, 2024, Clearwater, FL, USA. [[paper](https://dl.acm.org/doi/abs/10.1145/3649476.3658713)]
